@@ -1,3 +1,4 @@
+require('dotenv').config();
 const Groq = require('groq-sdk');
 
 const groq = new Groq({
@@ -6,20 +7,18 @@ const groq = new Groq({
 
 async function bölgeAnaliz(veri) {
   const prompt = `
-Sen bir gayrimenkul ve arsa yatırım uzmanısın. Aşağıdaki verilere göre bu bölge için kısa ve net bir yatırım analizi yap:
+Sen bir gayrimenkul ve arsa yatırım uzmanısın. Aşağıdaki TÜİK 2024 verilerine göre bu bölge için kısa ve net bir yatırım analizi yap:
 
-Şehir: ${veri.sehir}
-Ortalama m² Fiyatı: ${veri.ortalamaM2} TL
+Bölge: ${veri.sehir || veri.isim || 'Bilinmiyor'}
+Nüfus: ${veri.nufus?.toLocaleString('tr-TR') || 'Bilinmiyor'}
+Yıllık Nüfus Artış Hızı: ${veri.artisHizi > 0 ? '+' : ''}${veri.artisHizi}‰ (binde)
 Gelişim Skoru: ${veri.gelisimSkoru}/100
-Fiyat Aralığı: ${veri.minFiyat} TL - ${veri.maxFiyat} TL
-Trend: ${veri.trend}
-İlan Sayısı: ${veri.ilanSayisi}
 
 Lütfen şunları belirt:
-1. Bu bölge yatırım için uygun mu?
-2. 5 yıllık potansiyel değer artışı tahmini
+1. Bu bölge arsa/tarla yatırımı için uygun mu?
+2. Nüfus artış hızına göre 5 yıllık potansiyel
 3. Riskler neler?
-4. Tavsiye
+4. Net tavsiye
 
 Türkçe, kısa ve net yaz. Maksimum 150 kelime.
   `;
