@@ -2089,5 +2089,4560 @@
       }
     ],
     "gelisimSkoru": 98
+  },
+  "adiyaman": {
+    "il": "Adıyaman",
+    "bolge": "Güneydoğu Anadolu",
+    "koordinat": [
+      38.2763,
+      37.7648
+    ],
+    "artisHizi": 4.2,
+    "nufus": 634160,
+    "gelisimSkoru": 41,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 8.1,
+        "nufus": 280000,
+        "gelisimSkoru": 52
+      },
+      {
+        "id": "besni",
+        "isim": "Besni",
+        "artisHizi": -3.2,
+        "nufus": 75000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "celikhan",
+        "isim": "Çelikhan",
+        "artisHizi": -12.4,
+        "nufus": 18000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "gerger",
+        "isim": "Gerger",
+        "artisHizi": -18.6,
+        "nufus": 12000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "golbasi",
+        "isim": "Gölbaşı",
+        "artisHizi": 2.1,
+        "nufus": 82000,
+        "gelisimSkoru": 45
+      },
+      {
+        "id": "kahta",
+        "isim": "Kahta",
+        "artisHizi": 1.8,
+        "nufus": 115000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "samsat",
+        "isim": "Samsat",
+        "artisHizi": -22.1,
+        "nufus": 8000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "sincik",
+        "isim": "Sincik",
+        "artisHizi": -15.3,
+        "nufus": 22000,
+        "gelisimSkoru": 25
+      },
+      {
+        "id": "tut",
+        "isim": "Tut",
+        "artisHizi": -19.8,
+        "nufus": 9000,
+        "gelisimSkoru": 21
+      }
+    ]
+  },
+  "afyonkarahisar": {
+    "il": "Afyonkarahisar",
+    "bolge": "Ege",
+    "koordinat": [
+      30.5387,
+      38.7507
+    ],
+    "artisHizi": 2.1,
+    "nufus": 746930,
+    "gelisimSkoru": 58,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 6.4,
+        "nufus": 220000,
+        "gelisimSkoru": 68
+      },
+      {
+        "id": "bolvadin",
+        "isim": "Bolvadin",
+        "artisHizi": -4.2,
+        "nufus": 52000,
+        "gelisimSkoru": 45
+      },
+      {
+        "id": "cay",
+        "isim": "Çay",
+        "artisHizi": -2.8,
+        "nufus": 38000,
+        "gelisimSkoru": 47
+      },
+      {
+        "id": "dinar",
+        "isim": "Dinar",
+        "artisHizi": -3.1,
+        "nufus": 55000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "emirdag",
+        "isim": "Emirdağ",
+        "artisHizi": -5.6,
+        "nufus": 45000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "ihsaniye",
+        "isim": "İhsaniye",
+        "artisHizi": -8.3,
+        "nufus": 24000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "iscehisar",
+        "isim": "İscehisar",
+        "artisHizi": -6.1,
+        "nufus": 18000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "kiziloren",
+        "isim": "Kızılören",
+        "artisHizi": -11.2,
+        "nufus": 9000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "sandikli",
+        "isim": "Sandıklı",
+        "artisHizi": -2.4,
+        "nufus": 52000,
+        "gelisimSkoru": 50
+      },
+      {
+        "id": "suhut",
+        "isim": "Şuhut",
+        "artisHizi": -7.8,
+        "nufus": 28000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "sultandagi",
+        "isim": "Sultandağı",
+        "artisHizi": -9.4,
+        "nufus": 14000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "hocalar",
+        "isim": "Hocalar",
+        "artisHizi": -14.6,
+        "nufus": 7000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "basmakci",
+        "isim": "Başmakçı",
+        "artisHizi": -13.2,
+        "nufus": 8000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "bayat",
+        "isim": "Bayat",
+        "artisHizi": -10.1,
+        "nufus": 16000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "evciler",
+        "isim": "Evciler",
+        "artisHizi": -16.3,
+        "nufus": 5000,
+        "gelisimSkoru": 24
+      }
+    ]
+  },
+  "agri": {
+    "il": "Ağrı",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      43.0503,
+      39.7191
+    ],
+    "artisHizi": 8.6,
+    "nufus": 507541,
+    "gelisimSkoru": 32,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 12.4,
+        "nufus": 165000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "diyadin",
+        "isim": "Diyadin",
+        "artisHizi": 4.2,
+        "nufus": 52000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "dogubeyazit",
+        "isim": "Doğubeyazıt",
+        "artisHizi": 6.8,
+        "nufus": 98000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "eleskirt",
+        "isim": "Eleşkirt",
+        "artisHizi": 2.1,
+        "nufus": 45000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "hamur",
+        "isim": "Hamur",
+        "artisHizi": -4.3,
+        "nufus": 22000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "patnos",
+        "isim": "Patnos",
+        "artisHizi": 5.6,
+        "nufus": 85000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "taslicay",
+        "isim": "Taşlıçay",
+        "artisHizi": -8.2,
+        "nufus": 18000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "tutak",
+        "isim": "Tutak",
+        "artisHizi": 1.4,
+        "nufus": 38000,
+        "gelisimSkoru": 26
+      }
+    ]
+  },
+  "aksaray": {
+    "il": "Aksaray",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      34.0369,
+      38.3682
+    ],
+    "artisHizi": 5.8,
+    "nufus": 425149,
+    "gelisimSkoru": 55,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 9.2,
+        "nufus": 210000,
+        "gelisimSkoru": 65
+      },
+      {
+        "id": "agacoren",
+        "isim": "Ağaçören",
+        "artisHizi": -12.4,
+        "nufus": 12000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "eskil",
+        "isim": "Eskil",
+        "artisHizi": -8.6,
+        "nufus": 22000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "gulagac",
+        "isim": "Gülagaç",
+        "artisHizi": -10.2,
+        "nufus": 15000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "gurpinar",
+        "isim": "Gürpınar",
+        "artisHizi": -14.8,
+        "nufus": 8000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "ortakoy",
+        "isim": "Ortaköy",
+        "artisHizi": -6.4,
+        "nufus": 32000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "sariyahsi",
+        "isim": "Sarıyahşi",
+        "artisHizi": -11.3,
+        "nufus": 11000,
+        "gelisimSkoru": 27
+      },
+      {
+        "id": "sultanhanı",
+        "isim": "Sultanhanı",
+        "artisHizi": -9.7,
+        "nufus": 14000,
+        "gelisimSkoru": 32
+      }
+    ]
+  },
+  "amasya": {
+    "il": "Amasya",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      35.8333,
+      40.6499
+    ],
+    "artisHizi": -1.4,
+    "nufus": 335619,
+    "gelisimSkoru": 48,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 3.8,
+        "nufus": 140000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "goynucek",
+        "isim": "Göynücek",
+        "artisHizi": -14.2,
+        "nufus": 16000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "gumushacikoy",
+        "isim": "Gümüşhacıköy",
+        "artisHizi": -8.6,
+        "nufus": 24000,
+        "gelisimSkoru": 35
+      },
+      {
+        "id": "hamzabeyli",
+        "isim": "Hamzabeyli",
+        "artisHizi": -18.3,
+        "nufus": 6000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "merzifon",
+        "isim": "Merzifon",
+        "artisHizi": 1.2,
+        "nufus": 75000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "suluova",
+        "isim": "Suluova",
+        "artisHizi": 0.8,
+        "nufus": 52000,
+        "gelisimSkoru": 50
+      },
+      {
+        "id": "tasova",
+        "isim": "Taşova",
+        "artisHizi": -12.1,
+        "nufus": 22000,
+        "gelisimSkoru": 32
+      }
+    ]
+  },
+  "ardahan": {
+    "il": "Ardahan",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      42.7022,
+      41.1105
+    ],
+    "artisHizi": -18.4,
+    "nufus": 92876,
+    "gelisimSkoru": 22,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": -8.2,
+        "nufus": 38000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "cildir",
+        "isim": "Çıldır",
+        "artisHizi": -22.4,
+        "nufus": 12000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "damal",
+        "isim": "Damal",
+        "artisHizi": -24.6,
+        "nufus": 7000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "gole",
+        "isim": "Göle",
+        "artisHizi": -15.8,
+        "nufus": 22000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "hanak",
+        "isim": "Hanak",
+        "artisHizi": -20.3,
+        "nufus": 8000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "posof",
+        "isim": "Posof",
+        "artisHizi": -19.6,
+        "nufus": 9000,
+        "gelisimSkoru": 20
+      }
+    ]
+  },
+  "artvin": {
+    "il": "Artvin",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      41.8183,
+      41.1828
+    ],
+    "artisHizi": -8.2,
+    "nufus": 168067,
+    "gelisimSkoru": 38,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": -2.4,
+        "nufus": 28000,
+        "gelisimSkoru": 45
+      },
+      {
+        "id": "ardanuc",
+        "isim": "Ardanuç",
+        "artisHizi": -16.4,
+        "nufus": 8000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "arhavi",
+        "isim": "Arhavi",
+        "artisHizi": -6.8,
+        "nufus": 18000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "borcka",
+        "isim": "Borçka",
+        "artisHizi": -8.2,
+        "nufus": 22000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "hopa",
+        "isim": "Hopa",
+        "artisHizi": 2.4,
+        "nufus": 38000,
+        "gelisimSkoru": 52
+      },
+      {
+        "id": "kemalpasa",
+        "isim": "Kemalpaşa",
+        "artisHizi": -12.6,
+        "nufus": 12000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "murgul",
+        "isim": "Murgul",
+        "artisHizi": -4.8,
+        "nufus": 9000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "savsat",
+        "isim": "Şavşat",
+        "artisHizi": -18.2,
+        "nufus": 14000,
+        "gelisimSkoru": 25
+      },
+      {
+        "id": "yusufeli",
+        "isim": "Yusufeli",
+        "artisHizi": -14.6,
+        "nufus": 10000,
+        "gelisimSkoru": 30
+      }
+    ]
+  },
+  "bartin": {
+    "il": "Bartın",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      32.3375,
+      41.6344
+    ],
+    "artisHizi": 4.2,
+    "nufus": 200774,
+    "gelisimSkoru": 52,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 8.6,
+        "nufus": 105000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "arit",
+        "isim": "Arıt",
+        "artisHizi": -14.2,
+        "nufus": 8000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "kurucasile",
+        "isim": "Kurucaşile",
+        "artisHizi": -8.4,
+        "nufus": 18000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "ulus",
+        "isim": "Ulus",
+        "artisHizi": -10.6,
+        "nufus": 24000,
+        "gelisimSkoru": 32
+      }
+    ]
+  },
+  "batman": {
+    "il": "Batman",
+    "bolge": "Güneydoğu Anadolu",
+    "koordinat": [
+      41.1322,
+      37.8812
+    ],
+    "artisHizi": 11.4,
+    "nufus": 634431,
+    "gelisimSkoru": 44,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 14.8,
+        "nufus": 420000,
+        "gelisimSkoru": 54
+      },
+      {
+        "id": "besparmak",
+        "isim": "Beşparmak",
+        "artisHizi": -8.2,
+        "nufus": 12000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "gercus",
+        "isim": "Gerçüş",
+        "artisHizi": -4.6,
+        "nufus": 28000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "hasankeyf",
+        "isim": "Hasankeyf",
+        "artisHizi": -12.4,
+        "nufus": 8000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "kozluk",
+        "isim": "Kozluk",
+        "artisHizi": 2.8,
+        "nufus": 85000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "sason",
+        "isim": "Sason",
+        "artisHizi": -6.2,
+        "nufus": 48000,
+        "gelisimSkoru": 30
+      }
+    ]
+  },
+  "bayburt": {
+    "il": "Bayburt",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      40.2552,
+      40.2552
+    ],
+    "artisHizi": -6.8,
+    "nufus": 83876,
+    "gelisimSkoru": 28,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": -2.4,
+        "nufus": 55000,
+        "gelisimSkoru": 35
+      },
+      {
+        "id": "aydintepe",
+        "isim": "Aydıntepe",
+        "artisHizi": -14.6,
+        "nufus": 16000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "demirozu",
+        "isim": "Demirözü",
+        "artisHizi": -18.2,
+        "nufus": 12000,
+        "gelisimSkoru": 20
+      }
+    ]
+  },
+  "bilecik": {
+    "il": "Bilecik",
+    "bolge": "Marmara",
+    "koordinat": [
+      29.9792,
+      40.1506
+    ],
+    "artisHizi": 8.4,
+    "nufus": 238373,
+    "gelisimSkoru": 68,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 12.6,
+        "nufus": 82000,
+        "gelisimSkoru": 72
+      },
+      {
+        "id": "bozuyuk",
+        "isim": "Bozüyük",
+        "artisHizi": 10.2,
+        "nufus": 75000,
+        "gelisimSkoru": 74
+      },
+      {
+        "id": "golpazari",
+        "isim": "Gölpazarı",
+        "artisHizi": -8.4,
+        "nufus": 14000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "inhisar",
+        "isim": "İnhisar",
+        "artisHizi": -12.6,
+        "nufus": 8000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "osmaneli",
+        "isim": "Osmaneli",
+        "artisHizi": 2.8,
+        "nufus": 28000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "pazaryeri",
+        "isim": "Pazaryeri",
+        "artisHizi": -6.4,
+        "nufus": 16000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "sogut",
+        "isim": "Söğüt",
+        "artisHizi": -4.2,
+        "nufus": 22000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "yenipazar",
+        "isim": "Yenipazar",
+        "artisHizi": -10.8,
+        "nufus": 10000,
+        "gelisimSkoru": 32
+      }
+    ]
+  },
+  "bingol": {
+    "il": "Bingöl",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      40.4982,
+      38.8854
+    ],
+    "artisHizi": 6.2,
+    "nufus": 279252,
+    "gelisimSkoru": 30,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 10.4,
+        "nufus": 130000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "adakli",
+        "isim": "Adaklı",
+        "artisHizi": -8.6,
+        "nufus": 12000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "genc",
+        "isim": "Genç",
+        "artisHizi": -2.4,
+        "nufus": 45000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "karliova",
+        "isim": "Karlıova",
+        "artisHizi": -6.8,
+        "nufus": 28000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "kigi",
+        "isim": "Kiğı",
+        "artisHizi": -14.2,
+        "nufus": 12000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "solhan",
+        "isim": "Solhan",
+        "artisHizi": -4.6,
+        "nufus": 32000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "yayladere",
+        "isim": "Yayladere",
+        "artisHizi": -18.4,
+        "nufus": 8000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "yedisu",
+        "isim": "Yedisu",
+        "artisHizi": -20.2,
+        "nufus": 6000,
+        "gelisimSkoru": 16
+      }
+    ]
+  },
+  "bitlis": {
+    "il": "Bitlis",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      42.1072,
+      38.4006
+    ],
+    "artisHizi": 4.8,
+    "nufus": 342012,
+    "gelisimSkoru": 28,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 7.6,
+        "nufus": 90000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "adilcevaz",
+        "isim": "Adilcevaz",
+        "artisHizi": -4.2,
+        "nufus": 42000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "ahlat",
+        "isim": "Ahlat",
+        "artisHizi": 2.8,
+        "nufus": 55000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "guroymak",
+        "isim": "Güroymak",
+        "artisHizi": -8.4,
+        "nufus": 30000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "hizan",
+        "isim": "Hizan",
+        "artisHizi": -12.6,
+        "nufus": 38000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "mutki",
+        "isim": "Mutki",
+        "artisHizi": -16.8,
+        "nufus": 22000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "tatvan",
+        "isim": "Tatvan",
+        "artisHizi": 6.2,
+        "nufus": 85000,
+        "gelisimSkoru": 40
+      }
+    ]
+  },
+  "bolu": {
+    "il": "Bolu",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      31.6061,
+      40.7396
+    ],
+    "artisHizi": 6.8,
+    "nufus": 335193,
+    "gelisimSkoru": 62,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 10.4,
+        "nufus": 155000,
+        "gelisimSkoru": 72
+      },
+      {
+        "id": "dortdivan",
+        "isim": "Dörtdivan",
+        "artisHizi": -8.6,
+        "nufus": 12000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "gerze",
+        "isim": "Gerze",
+        "artisHizi": -6.4,
+        "nufus": 18000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "goynuk",
+        "isim": "Göynük",
+        "artisHizi": -4.2,
+        "nufus": 22000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "kibriscik",
+        "isim": "Kıbrıscık",
+        "artisHizi": -12.8,
+        "nufus": 8000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "mengen",
+        "isim": "Mengen",
+        "artisHizi": -6.8,
+        "nufus": 18000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "mudurnu",
+        "isim": "Mudurnu",
+        "artisHizi": -8.4,
+        "nufus": 16000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "seben",
+        "isim": "Seben",
+        "artisHizi": -14.2,
+        "nufus": 10000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "yeniccaga",
+        "isim": "Yenicağa",
+        "artisHizi": -4.6,
+        "nufus": 14000,
+        "gelisimSkoru": 40
+      }
+    ]
+  },
+  "burdur": {
+    "il": "Burdur",
+    "bolge": "Akdeniz",
+    "koordinat": [
+      30.2908,
+      37.7204
+    ],
+    "artisHizi": 1.2,
+    "nufus": 268484,
+    "gelisimSkoru": 50,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 5.8,
+        "nufus": 82000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "aglasum",
+        "isim": "Ağlasun",
+        "artisHizi": -8.4,
+        "nufus": 12000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "altinyayla",
+        "isim": "Altınyayla",
+        "artisHizi": -12.6,
+        "nufus": 8000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "bucak",
+        "isim": "Bucak",
+        "artisHizi": 2.4,
+        "nufus": 68000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "cavdir",
+        "isim": "Çavdır",
+        "artisHizi": -14.8,
+        "nufus": 7000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "celtikci",
+        "isim": "Çeltikçi",
+        "artisHizi": -10.2,
+        "nufus": 9000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "golhisar",
+        "isim": "Gölhisar",
+        "artisHizi": -6.4,
+        "nufus": 24000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "karamanli",
+        "isim": "Karamanlı",
+        "artisHizi": -9.8,
+        "nufus": 10000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "kemer",
+        "isim": "Kemer",
+        "artisHizi": -7.6,
+        "nufus": 12000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "tasnak",
+        "isim": "Tasnak",
+        "artisHizi": -16.4,
+        "nufus": 6000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "tefenni",
+        "isim": "Tefenni",
+        "artisHizi": -11.2,
+        "nufus": 14000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "yesilova",
+        "isim": "Yeşilova",
+        "artisHizi": -8.8,
+        "nufus": 16000,
+        "gelisimSkoru": 32
+      }
+    ]
+  },
+  "cankiri": {
+    "il": "Çankırı",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      33.6134,
+      40.6013
+    ],
+    "artisHizi": -4.2,
+    "nufus": 183584,
+    "gelisimSkoru": 38,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 2.8,
+        "nufus": 82000,
+        "gelisimSkoru": 50
+      },
+      {
+        "id": "atkaracalar",
+        "isim": "Atkaracalar",
+        "artisHizi": -18.4,
+        "nufus": 6000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "bayramoren",
+        "isim": "Bayramören",
+        "artisHizi": -22.6,
+        "nufus": 4000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "cerkes",
+        "isim": "Çerkeş",
+        "artisHizi": -8.6,
+        "nufus": 22000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "eldivan",
+        "isim": "Eldivan",
+        "artisHizi": -14.2,
+        "nufus": 8000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "ilgaz",
+        "isim": "Ilgaz",
+        "artisHizi": -6.4,
+        "nufus": 18000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "kursunlu",
+        "isim": "Kurşunlu",
+        "artisHizi": -12.8,
+        "nufus": 12000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "orta",
+        "isim": "Orta",
+        "artisHizi": -10.4,
+        "nufus": 14000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "sabanozu",
+        "isim": "Şabanözü",
+        "artisHizi": -16.6,
+        "nufus": 7000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "yaprakli",
+        "isim": "Yapraklı",
+        "artisHizi": -20.2,
+        "nufus": 5000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "kizilirmak",
+        "isim": "Kızılırmak",
+        "artisHizi": -18.8,
+        "nufus": 5000,
+        "gelisimSkoru": 19
+      }
+    ]
+  },
+  "corum": {
+    "il": "Çorum",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      34.9556,
+      40.5506
+    ],
+    "artisHizi": -1.8,
+    "nufus": 521614,
+    "gelisimSkoru": 48,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 4.6,
+        "nufus": 235000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "alaca",
+        "isim": "Alaca",
+        "artisHizi": -6.4,
+        "nufus": 38000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "bayat",
+        "isim": "Bayat",
+        "artisHizi": -12.8,
+        "nufus": 14000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "bogazkale",
+        "isim": "Boğazkale",
+        "artisHizi": -10.2,
+        "nufus": 8000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "dodurga",
+        "isim": "Dodurga",
+        "artisHizi": -14.6,
+        "nufus": 7000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "iskilip",
+        "isim": "İskilip",
+        "artisHizi": -4.8,
+        "nufus": 52000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "kargi",
+        "isim": "Kargı",
+        "artisHizi": -10.4,
+        "nufus": 18000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "lacin",
+        "isim": "Laçin",
+        "artisHizi": -16.8,
+        "nufus": 6000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "mecitlizoz",
+        "isim": "Mecitözü",
+        "artisHizi": -8.6,
+        "nufus": 16000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "oguzlar",
+        "isim": "Oğuzlar",
+        "artisHizi": -12.4,
+        "nufus": 9000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "ortakoy",
+        "isim": "Ortaköy",
+        "artisHizi": -9.8,
+        "nufus": 18000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "osmancik",
+        "isim": "Osmancık",
+        "artisHizi": -2.4,
+        "nufus": 52000,
+        "gelisimSkoru": 46
+      },
+      {
+        "id": "sungurlu",
+        "isim": "Sungurlu",
+        "artisHizi": -1.6,
+        "nufus": 65000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "ugurludag",
+        "isim": "Uğurludağ",
+        "artisHizi": -14.2,
+        "nufus": 8000,
+        "gelisimSkoru": 24
+      }
+    ]
+  },
+  "duzce": {
+    "il": "Düzce",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      31.1565,
+      40.8438
+    ],
+    "artisHizi": 9.6,
+    "nufus": 410978,
+    "gelisimSkoru": 66,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 13.4,
+        "nufus": 210000,
+        "gelisimSkoru": 74
+      },
+      {
+        "id": "akcakoca",
+        "isim": "Akçakoca",
+        "artisHizi": 6.8,
+        "nufus": 48000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "cumayeri",
+        "isim": "Cumayeri",
+        "artisHizi": 4.2,
+        "nufus": 22000,
+        "gelisimSkoru": 52
+      },
+      {
+        "id": "cilimli",
+        "isim": "Çilimli",
+        "artisHizi": 2.8,
+        "nufus": 18000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "golyaka",
+        "isim": "Gölyaka",
+        "artisHizi": 1.6,
+        "nufus": 24000,
+        "gelisimSkoru": 46
+      },
+      {
+        "id": "gumusova",
+        "isim": "Gümüşova",
+        "artisHizi": 8.4,
+        "nufus": 28000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "kaynasli",
+        "isim": "Kaynaşlı",
+        "artisHizi": 5.6,
+        "nufus": 32000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "yigilca",
+        "isim": "Yığılca",
+        "artisHizi": -8.4,
+        "nufus": 12000,
+        "gelisimSkoru": 32
+      }
+    ]
+  },
+  "edirne": {
+    "il": "Edirne",
+    "bolge": "Marmara",
+    "koordinat": [
+      26.5557,
+      41.6818
+    ],
+    "artisHizi": 2.8,
+    "nufus": 413368,
+    "gelisimSkoru": 62,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 6.4,
+        "nufus": 165000,
+        "gelisimSkoru": 72
+      },
+      {
+        "id": "enez",
+        "isim": "Enez",
+        "artisHizi": -4.2,
+        "nufus": 12000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "havsa",
+        "isim": "Havsa",
+        "artisHizi": -6.8,
+        "nufus": 18000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "ipsala",
+        "isim": "İpsala",
+        "artisHizi": -2.4,
+        "nufus": 28000,
+        "gelisimSkoru": 45
+      },
+      {
+        "id": "kesan",
+        "isim": "Keşan",
+        "artisHizi": 4.2,
+        "nufus": 85000,
+        "gelisimSkoru": 60
+      },
+      {
+        "id": "lalapasa",
+        "isim": "Lalapaşa",
+        "artisHizi": -8.6,
+        "nufus": 14000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "meric",
+        "isim": "Meriç",
+        "artisHizi": -6.4,
+        "nufus": 18000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "suloglu",
+        "isim": "Süloğlu",
+        "artisHizi": -10.2,
+        "nufus": 9000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "uzunkopru",
+        "isim": "Uzunköprü",
+        "artisHizi": 0.8,
+        "nufus": 62000,
+        "gelisimSkoru": 52
+      }
+    ]
+  },
+  "elazig": {
+    "il": "Elazığ",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      39.2264,
+      38.6748
+    ],
+    "artisHizi": 1.6,
+    "nufus": 589956,
+    "gelisimSkoru": 48,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 5.8,
+        "nufus": 385000,
+        "gelisimSkoru": 60
+      },
+      {
+        "id": "agin",
+        "isim": "Ağın",
+        "artisHizi": -18.4,
+        "nufus": 5000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "alacakaya",
+        "isim": "Alacakaya",
+        "artisHizi": -14.6,
+        "nufus": 7000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "aricak",
+        "isim": "Arıcak",
+        "artisHizi": -12.8,
+        "nufus": 9000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "baskil",
+        "isim": "Baskil",
+        "artisHizi": -10.4,
+        "nufus": 18000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "karakocan",
+        "isim": "Karakoçan",
+        "artisHizi": -6.8,
+        "nufus": 35000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "keban",
+        "isim": "Keban",
+        "artisHizi": -8.4,
+        "nufus": 12000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "kovancilar",
+        "isim": "Kovancılar",
+        "artisHizi": 2.4,
+        "nufus": 42000,
+        "gelisimSkoru": 45
+      },
+      {
+        "id": "maden",
+        "isim": "Maden",
+        "artisHizi": -8.6,
+        "nufus": 20000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "palu",
+        "isim": "Palu",
+        "artisHizi": -6.2,
+        "nufus": 28000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "sivrice",
+        "isim": "Sivrice",
+        "artisHizi": -10.8,
+        "nufus": 14000,
+        "gelisimSkoru": 28
+      }
+    ]
+  },
+  "erzincan": {
+    "il": "Erzincan",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      39.4903,
+      39.75
+    ],
+    "artisHizi": -2.4,
+    "nufus": 232241,
+    "gelisimSkoru": 40,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 2.8,
+        "nufus": 120000,
+        "gelisimSkoru": 52
+      },
+      {
+        "id": "caybagi",
+        "isim": "Çayırlı",
+        "artisHizi": -16.4,
+        "nufus": 9000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "ilic",
+        "isim": "İliç",
+        "artisHizi": -12.8,
+        "nufus": 12000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "kemah",
+        "isim": "Kemah",
+        "artisHizi": -14.6,
+        "nufus": 10000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "kemaliye",
+        "isim": "Kemaliye",
+        "artisHizi": -18.2,
+        "nufus": 7000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "otlukbeli",
+        "isim": "Otlukbeli",
+        "artisHizi": -20.4,
+        "nufus": 4000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "refahiye",
+        "isim": "Refahiye",
+        "artisHizi": -10.6,
+        "nufus": 18000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "tercan",
+        "isim": "Tercan",
+        "artisHizi": -8.4,
+        "nufus": 22000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "uzumlu",
+        "isim": "Üzümlü",
+        "artisHizi": -6.8,
+        "nufus": 16000,
+        "gelisimSkoru": 32
+      }
+    ]
+  },
+  "erzurum": {
+    "il": "Erzurum",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      41.2762,
+      39.9043
+    ],
+    "artisHizi": -0.8,
+    "nufus": 762321,
+    "gelisimSkoru": 42,
+    "ilceler": [
+      {
+        "id": "yakutiye",
+        "isim": "Yakutiye",
+        "artisHizi": 4.8,
+        "nufus": 190000,
+        "gelisimSkoru": 56
+      },
+      {
+        "id": "aziziye",
+        "isim": "Aziziye",
+        "artisHizi": 6.2,
+        "nufus": 155000,
+        "gelisimSkoru": 54
+      },
+      {
+        "id": "palandoken",
+        "isim": "Palandöken",
+        "artisHizi": 8.4,
+        "nufus": 145000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "askale",
+        "isim": "Aşkale",
+        "artisHizi": -8.6,
+        "nufus": 28000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "cat",
+        "isim": "Çat",
+        "artisHizi": -10.4,
+        "nufus": 22000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "hinis",
+        "isim": "Hınıs",
+        "artisHizi": -6.8,
+        "nufus": 35000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "horasan",
+        "isim": "Horasan",
+        "artisHizi": -4.2,
+        "nufus": 42000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "ispir",
+        "isim": "İspir",
+        "artisHizi": -8.4,
+        "nufus": 28000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "karayazi",
+        "isim": "Karayazı",
+        "artisHizi": -12.6,
+        "nufus": 18000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "koprukoy",
+        "isim": "Köprüköy",
+        "artisHizi": -6.4,
+        "nufus": 22000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "narman",
+        "isim": "Narman",
+        "artisHizi": -10.2,
+        "nufus": 20000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "oltu",
+        "isim": "Oltu",
+        "artisHizi": -4.8,
+        "nufus": 32000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "olur",
+        "isim": "Olur",
+        "artisHizi": -14.8,
+        "nufus": 10000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "pasinler",
+        "isim": "Pasinler",
+        "artisHizi": 2.4,
+        "nufus": 38000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "senkaya",
+        "isim": "Şenkaya",
+        "artisHizi": -16.4,
+        "nufus": 12000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "tekman",
+        "isim": "Tekman",
+        "artisHizi": -12.8,
+        "nufus": 18000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "tortum",
+        "isim": "Tortum",
+        "artisHizi": -8.6,
+        "nufus": 20000,
+        "gelisimSkoru": 28
+      }
+    ]
+  },
+  "giresun": {
+    "il": "Giresun",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      38.3895,
+      40.9128
+    ],
+    "artisHizi": -4.6,
+    "nufus": 438775,
+    "gelisimSkoru": 44,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 2.4,
+        "nufus": 130000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "alucra",
+        "isim": "Alucra",
+        "artisHizi": -18.4,
+        "nufus": 10000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "bulancak",
+        "isim": "Bulancak",
+        "artisHizi": -2.8,
+        "nufus": 75000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "camoluk",
+        "isim": "Çamoluk",
+        "artisHizi": -22.6,
+        "nufus": 5000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "camili",
+        "isim": "Çanakçı",
+        "artisHizi": -20.4,
+        "nufus": 6000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "dereli",
+        "isim": "Dereli",
+        "artisHizi": -12.6,
+        "nufus": 18000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "dogankent",
+        "isim": "Doğankent",
+        "artisHizi": -10.8,
+        "nufus": 8000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "espiye",
+        "isim": "Espiye",
+        "artisHizi": -6.4,
+        "nufus": 32000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "eynesil",
+        "isim": "Eynesil",
+        "artisHizi": -8.2,
+        "nufus": 14000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "gorele",
+        "isim": "Görele",
+        "artisHizi": -4.6,
+        "nufus": 45000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "gucegozu",
+        "isim": "Güce",
+        "artisHizi": -16.8,
+        "nufus": 6000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "kesap",
+        "isim": "Kesap",
+        "artisHizi": -10.4,
+        "nufus": 18000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "piraziz",
+        "isim": "Piraziz",
+        "artisHizi": -6.8,
+        "nufus": 22000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "sebinkarahisar",
+        "isim": "Şebinkarahisar",
+        "artisHizi": -14.2,
+        "nufus": 20000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "tirebolu",
+        "isim": "Tirebolu",
+        "artisHizi": -4.2,
+        "nufus": 35000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "yaglidere",
+        "isim": "Yağlıdere",
+        "artisHizi": -12.8,
+        "nufus": 10000,
+        "gelisimSkoru": 26
+      }
+    ]
+  },
+  "gumushane": {
+    "il": "Gümüşhane",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      39.4814,
+      40.4386
+    ],
+    "artisHizi": -8.4,
+    "nufus": 171934,
+    "gelisimSkoru": 30,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": -2.6,
+        "nufus": 78000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "kelkit",
+        "isim": "Kelkit",
+        "artisHizi": -12.4,
+        "nufus": 38000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "kose",
+        "isim": "Köse",
+        "artisHizi": -18.6,
+        "nufus": 10000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "kusumlu",
+        "isim": "Kürtün",
+        "artisHizi": -16.8,
+        "nufus": 12000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "siran",
+        "isim": "Şiran",
+        "artisHizi": -14.2,
+        "nufus": 22000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "torul",
+        "isim": "Torul",
+        "artisHizi": -10.4,
+        "nufus": 18000,
+        "gelisimSkoru": 26
+      }
+    ]
+  },
+  "hakkari": {
+    "il": "Hakkari",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      43.7408,
+      37.5744
+    ],
+    "artisHizi": 12.6,
+    "nufus": 279561,
+    "gelisimSkoru": 22,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 15.4,
+        "nufus": 95000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "cukurca",
+        "isim": "Çukurca",
+        "artisHizi": 4.8,
+        "nufus": 35000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "semdinli",
+        "isim": "Şemdinli",
+        "artisHizi": 6.2,
+        "nufus": 55000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "yuksekova",
+        "isim": "Yüksekova",
+        "artisHizi": 10.4,
+        "nufus": 85000,
+        "gelisimSkoru": 26
+      }
+    ]
+  },
+  "hatay": {
+    "il": "Hatay",
+    "bolge": "Akdeniz",
+    "koordinat": [
+      36.2029,
+      36.4018
+    ],
+    "artisHizi": 6.8,
+    "nufus": 1644150,
+    "gelisimSkoru": 62,
+    "ilceler": [
+      {
+        "id": "antakya",
+        "isim": "Antakya",
+        "artisHizi": 4.2,
+        "nufus": 290000,
+        "gelisimSkoru": 65
+      },
+      {
+        "id": "iskenderun",
+        "isim": "İskenderun",
+        "artisHizi": 8.6,
+        "nufus": 285000,
+        "gelisimSkoru": 72
+      },
+      {
+        "id": "defne",
+        "isim": "Defne",
+        "artisHizi": 6.4,
+        "nufus": 155000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "dortyol",
+        "isim": "Dörtyol",
+        "artisHizi": 4.8,
+        "nufus": 118000,
+        "gelisimSkoru": 60
+      },
+      {
+        "id": "erzin",
+        "isim": "Erzin",
+        "artisHizi": 2.4,
+        "nufus": 52000,
+        "gelisimSkoru": 52
+      },
+      {
+        "id": "hassa",
+        "isim": "Hassa",
+        "artisHizi": -2.8,
+        "nufus": 48000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "kirikhan",
+        "isim": "Kırıkhan",
+        "artisHizi": 3.6,
+        "nufus": 125000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "kumlu",
+        "isim": "Kumlu",
+        "artisHizi": -4.6,
+        "nufus": 18000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "payas",
+        "isim": "Payas",
+        "artisHizi": 10.4,
+        "nufus": 85000,
+        "gelisimSkoru": 68
+      },
+      {
+        "id": "reyhanli",
+        "isim": "Reyhanlı",
+        "artisHizi": 8.2,
+        "nufus": 120000,
+        "gelisimSkoru": 50
+      },
+      {
+        "id": "samandagi",
+        "isim": "Samandağ",
+        "artisHizi": 1.8,
+        "nufus": 98000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "yayladagi",
+        "isim": "Yayladağı",
+        "artisHizi": -6.4,
+        "nufus": 28000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "altinozlu",
+        "isim": "Altınözü",
+        "artisHizi": -4.2,
+        "nufus": 38000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "belen",
+        "isim": "Belen",
+        "artisHizi": 2.8,
+        "nufus": 32000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "golbasi",
+        "isim": "Gölbaşı",
+        "artisHizi": -2.4,
+        "nufus": 22000,
+        "gelisimSkoru": 40
+      }
+    ]
+  },
+  "igdir": {
+    "il": "Iğdır",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      44.0452,
+      39.9167
+    ],
+    "artisHizi": 4.2,
+    "nufus": 197234,
+    "gelisimSkoru": 28,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 7.6,
+        "nufus": 105000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "aralik",
+        "isim": "Aralık",
+        "artisHizi": 2.4,
+        "nufus": 42000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "karakoyunlu",
+        "isim": "Karakoyunlu",
+        "artisHizi": -4.8,
+        "nufus": 22000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "tuzluca",
+        "isim": "Tuzluca",
+        "artisHizi": -2.6,
+        "nufus": 28000,
+        "gelisimSkoru": 24
+      }
+    ]
+  },
+  "isparta": {
+    "il": "Isparta",
+    "bolge": "Akdeniz",
+    "koordinat": [
+      30.5533,
+      37.7648
+    ],
+    "artisHizi": 2.4,
+    "nufus": 446804,
+    "gelisimSkoru": 56,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 7.8,
+        "nufus": 220000,
+        "gelisimSkoru": 68
+      },
+      {
+        "id": "aksu",
+        "isim": "Aksu",
+        "artisHizi": -8.4,
+        "nufus": 14000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "atabey",
+        "isim": "Atabey",
+        "artisHizi": -10.6,
+        "nufus": 10000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "egirdir",
+        "isim": "Eğirdir",
+        "artisHizi": -2.4,
+        "nufus": 38000,
+        "gelisimSkoru": 50
+      },
+      {
+        "id": "gelendost",
+        "isim": "Gelendost",
+        "artisHizi": -8.8,
+        "nufus": 16000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "gonen",
+        "isim": "Gönen",
+        "artisHizi": -6.4,
+        "nufus": 22000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "keciborlu",
+        "isim": "Keçiborlu",
+        "artisHizi": -4.8,
+        "nufus": 24000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "senirkent",
+        "isim": "Senirkent",
+        "artisHizi": -6.2,
+        "nufus": 18000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "sarkikaraagac",
+        "isim": "Şarkikaraağaç",
+        "artisHizi": -8.4,
+        "nufus": 22000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "sutculer",
+        "isim": "Sütçüler",
+        "artisHizi": -12.6,
+        "nufus": 10000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "uluborlu",
+        "isim": "Uluborlu",
+        "artisHizi": -6.8,
+        "nufus": 16000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "yalvac",
+        "isim": "Yalvaç",
+        "artisHizi": -2.4,
+        "nufus": 55000,
+        "gelisimSkoru": 46
+      },
+      {
+        "id": "yenisarbademli",
+        "isim": "Yenişarbademli",
+        "artisHizi": -14.8,
+        "nufus": 6000,
+        "gelisimSkoru": 24
+      }
+    ]
+  },
+  "kahramanmaras": {
+    "il": "Kahramanmaraş",
+    "bolge": "Akdeniz",
+    "koordinat": [
+      36.9371,
+      37.5858
+    ],
+    "artisHizi": 7.4,
+    "nufus": 1177436,
+    "gelisimSkoru": 58,
+    "ilceler": [
+      {
+        "id": "dulkadiroglulari",
+        "isim": "Dulkadiroğulları",
+        "artisHizi": 10.4,
+        "nufus": 335000,
+        "gelisimSkoru": 68
+      },
+      {
+        "id": "elbistan",
+        "isim": "Elbistan",
+        "artisHizi": 2.8,
+        "nufus": 155000,
+        "gelisimSkoru": 50
+      },
+      {
+        "id": "onikisubat",
+        "isim": "Onikişubat",
+        "artisHizi": 12.6,
+        "nufus": 320000,
+        "gelisimSkoru": 70
+      },
+      {
+        "id": "afsin",
+        "isim": "Afşin",
+        "artisHizi": 4.6,
+        "nufus": 95000,
+        "gelisimSkoru": 52
+      },
+      {
+        "id": "andirin",
+        "isim": "Andırın",
+        "artisHizi": -8.4,
+        "nufus": 28000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "caglayancerit",
+        "isim": "Çağlayancerit",
+        "artisHizi": -6.8,
+        "nufus": 32000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "ekinozu",
+        "isim": "Ekinözü",
+        "artisHizi": -12.6,
+        "nufus": 10000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "goksun",
+        "isim": "Göksun",
+        "artisHizi": -4.2,
+        "nufus": 45000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "nurhak",
+        "isim": "Nurhak",
+        "artisHizi": -10.8,
+        "nufus": 14000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "pazarcik",
+        "isim": "Pazarcık",
+        "artisHizi": 2.4,
+        "nufus": 85000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "turkoglu",
+        "isim": "Türkoğlu",
+        "artisHizi": 4.8,
+        "nufus": 62000,
+        "gelisimSkoru": 52
+      }
+    ]
+  },
+  "karabuk": {
+    "il": "Karabük",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      32.6239,
+      41.2061
+    ],
+    "artisHizi": 4.8,
+    "nufus": 250130,
+    "gelisimSkoru": 55,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 8.4,
+        "nufus": 145000,
+        "gelisimSkoru": 65
+      },
+      {
+        "id": "eflani",
+        "isim": "Eflani",
+        "artisHizi": -12.4,
+        "nufus": 12000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "eskipazar",
+        "isim": "Eskipazar",
+        "artisHizi": -8.6,
+        "nufus": 18000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "ovacik",
+        "isim": "Ovacık",
+        "artisHizi": -14.8,
+        "nufus": 8000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "safranbolu",
+        "isim": "Safranbolu",
+        "artisHizi": 2.6,
+        "nufus": 52000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "yenice",
+        "isim": "Yenice",
+        "artisHizi": -6.4,
+        "nufus": 16000,
+        "gelisimSkoru": 36
+      }
+    ]
+  },
+  "karaman": {
+    "il": "Karaman",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      33.215,
+      37.1759
+    ],
+    "artisHizi": 3.6,
+    "nufus": 258658,
+    "gelisimSkoru": 50,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 7.8,
+        "nufus": 145000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "ayranci",
+        "isim": "Ayrancı",
+        "artisHizi": -8.4,
+        "nufus": 16000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "basyayla",
+        "isim": "Başyayla",
+        "artisHizi": -14.6,
+        "nufus": 7000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "ermenek",
+        "isim": "Ermenek",
+        "artisHizi": -6.2,
+        "nufus": 32000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "kazimkarabekir",
+        "isim": "Kazımkarabekir",
+        "artisHizi": -10.4,
+        "nufus": 14000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "sariveli",
+        "isim": "Sarıveliler",
+        "artisHizi": -16.8,
+        "nufus": 8000,
+        "gelisimSkoru": 20
+      }
+    ]
+  },
+  "kars": {
+    "il": "Kars",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      43.0975,
+      40.6013
+    ],
+    "artisHizi": -6.8,
+    "nufus": 287062,
+    "gelisimSkoru": 28,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": -1.4,
+        "nufus": 105000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "akyaka",
+        "isim": "Akyaka",
+        "artisHizi": -18.4,
+        "nufus": 8000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "arpaçay",
+        "isim": "Arpaçay",
+        "artisHizi": -12.6,
+        "nufus": 18000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "digor",
+        "isim": "Digor",
+        "artisHizi": -16.8,
+        "nufus": 12000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "kagizman",
+        "isim": "Kağızman",
+        "artisHizi": -8.4,
+        "nufus": 38000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "sarikamis",
+        "isim": "Sarıkamış",
+        "artisHizi": -4.2,
+        "nufus": 52000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "selim",
+        "isim": "Selim",
+        "artisHizi": -14.6,
+        "nufus": 14000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "susuz",
+        "isim": "Susuz",
+        "artisHizi": -10.8,
+        "nufus": 22000,
+        "gelisimSkoru": 24
+      }
+    ]
+  },
+  "kastamonu": {
+    "il": "Kastamonu",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      33.7758,
+      41.3887
+    ],
+    "artisHizi": -4.8,
+    "nufus": 361453,
+    "gelisimSkoru": 40,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 2.4,
+        "nufus": 115000,
+        "gelisimSkoru": 52
+      },
+      {
+        "id": "abana",
+        "isim": "Abana",
+        "artisHizi": -8.4,
+        "nufus": 8000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "agli",
+        "isim": "Ağlı",
+        "artisHizi": -18.6,
+        "nufus": 4000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "azdavay",
+        "isim": "Azdavay",
+        "artisHizi": -16.4,
+        "nufus": 7000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "bozkurt",
+        "isim": "Bozkurt",
+        "artisHizi": -10.2,
+        "nufus": 12000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "catalzeytin",
+        "isim": "Çatalzeytin",
+        "artisHizi": -14.8,
+        "nufus": 6000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "cide",
+        "isim": "Cide",
+        "artisHizi": -8.6,
+        "nufus": 22000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "daday",
+        "isim": "Daday",
+        "artisHizi": -12.4,
+        "nufus": 14000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "devrekani",
+        "isim": "Devrekani",
+        "artisHizi": -6.8,
+        "nufus": 18000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "doganyurt",
+        "isim": "Doğanyurt",
+        "artisHizi": -16.2,
+        "nufus": 6000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "hanonu",
+        "isim": "Hanönü",
+        "artisHizi": -14.6,
+        "nufus": 7000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "ihsangazi",
+        "isim": "İhsangazi",
+        "artisHizi": -18.4,
+        "nufus": 5000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "inebolu",
+        "isim": "İnebolu",
+        "artisHizi": -4.2,
+        "nufus": 28000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "kure",
+        "isim": "Küre",
+        "artisHizi": -12.8,
+        "nufus": 9000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "pinarbasi",
+        "isim": "Pınarbaşı",
+        "artisHizi": -20.4,
+        "nufus": 4000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "seydiler",
+        "isim": "Seydiler",
+        "artisHizi": -14.2,
+        "nufus": 7000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "senpazar",
+        "isim": "Şenpazar",
+        "artisHizi": -18.8,
+        "nufus": 5000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "taskopru",
+        "isim": "Taşköprü",
+        "artisHizi": -6.4,
+        "nufus": 35000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "tosya",
+        "isim": "Tosya",
+        "artisHizi": -2.8,
+        "nufus": 42000,
+        "gelisimSkoru": 40
+      }
+    ]
+  },
+  "kirikkale": {
+    "il": "Kırıkkale",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      33.5098,
+      39.8468
+    ],
+    "artisHizi": -2.4,
+    "nufus": 263243,
+    "gelisimSkoru": 55,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 1.8,
+        "nufus": 180000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "bahsili",
+        "isim": "Bahşili",
+        "artisHizi": -8.4,
+        "nufus": 12000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "baliseyh",
+        "isim": "Balışeyh",
+        "artisHizi": -12.6,
+        "nufus": 8000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "celebi",
+        "isim": "Çelebi",
+        "artisHizi": -10.4,
+        "nufus": 10000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "delice",
+        "isim": "Delice",
+        "artisHizi": -8.8,
+        "nufus": 14000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "karakecili",
+        "isim": "Karakoçali",
+        "artisHizi": -14.2,
+        "nufus": 7000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "keskin",
+        "isim": "Keskin",
+        "artisHizi": -6.4,
+        "nufus": 22000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "sulakyurt",
+        "isim": "Sulakyurt",
+        "artisHizi": -16.8,
+        "nufus": 6000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "yahsihan",
+        "isim": "Yahşihan",
+        "artisHizi": 2.4,
+        "nufus": 18000,
+        "gelisimSkoru": 48
+      }
+    ]
+  },
+  "kirklareli": {
+    "il": "Kırklareli",
+    "bolge": "Marmara",
+    "koordinat": [
+      27.2247,
+      41.7351
+    ],
+    "artisHizi": 4.2,
+    "nufus": 373752,
+    "gelisimSkoru": 60,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 6.8,
+        "nufus": 110000,
+        "gelisimSkoru": 68
+      },
+      {
+        "id": "babaeski",
+        "isim": "Babaeski",
+        "artisHizi": 2.4,
+        "nufus": 52000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "demirkoy",
+        "isim": "Demirköy",
+        "artisHizi": -8.4,
+        "nufus": 12000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "kirklareli_luleburgaz",
+        "isim": "Lüleburgaz",
+        "artisHizi": 8.6,
+        "nufus": 125000,
+        "gelisimSkoru": 70
+      },
+      {
+        "id": "pehlivankoy",
+        "isim": "Pehlivanköy",
+        "artisHizi": -6.4,
+        "nufus": 8000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "pinarhisar",
+        "isim": "Pınarhisar",
+        "artisHizi": -4.2,
+        "nufus": 18000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "vize",
+        "isim": "Vize",
+        "artisHizi": -2.8,
+        "nufus": 28000,
+        "gelisimSkoru": 44
+      }
+    ]
+  },
+  "kirsehir": {
+    "il": "Kırşehir",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      34.1741,
+      39.1425
+    ],
+    "artisHizi": 0.8,
+    "nufus": 238713,
+    "gelisimSkoru": 48,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 4.8,
+        "nufus": 120000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "akcakent",
+        "isim": "Akçakent",
+        "artisHizi": -14.6,
+        "nufus": 6000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "akpinar",
+        "isim": "Akpınar",
+        "artisHizi": -10.4,
+        "nufus": 12000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "boztepe",
+        "isim": "Boztepe",
+        "artisHizi": -12.8,
+        "nufus": 8000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "cicekdagi",
+        "isim": "Çiçekdağı",
+        "artisHizi": -8.6,
+        "nufus": 18000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "kaman",
+        "isim": "Kaman",
+        "artisHizi": -4.2,
+        "nufus": 32000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "mucur",
+        "isim": "Mucur",
+        "artisHizi": -6.4,
+        "nufus": 24000,
+        "gelisimSkoru": 34
+      }
+    ]
+  },
+  "kilis": {
+    "il": "Kilis",
+    "bolge": "Güneydoğu Anadolu",
+    "koordinat": [
+      37.1153,
+      36.7184
+    ],
+    "artisHizi": 8.4,
+    "nufus": 150471,
+    "gelisimSkoru": 40,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 10.6,
+        "nufus": 110000,
+        "gelisimSkoru": 46
+      },
+      {
+        "id": "elbeyli",
+        "isim": "Elbeyli",
+        "artisHizi": 2.4,
+        "nufus": 22000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "musabeyli",
+        "isim": "Musabeyli",
+        "artisHizi": -4.2,
+        "nufus": 10000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "polateli",
+        "isim": "Polateli",
+        "artisHizi": 1.8,
+        "nufus": 18000,
+        "gelisimSkoru": 30
+      }
+    ]
+  },
+  "kutahya": {
+    "il": "Kütahya",
+    "bolge": "Ege",
+    "koordinat": [
+      29.9833,
+      39.4167
+    ],
+    "artisHizi": 1.6,
+    "nufus": 572082,
+    "gelisimSkoru": 54,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 5.8,
+        "nufus": 235000,
+        "gelisimSkoru": 65
+      },
+      {
+        "id": "altintas",
+        "isim": "Altıntaş",
+        "artisHizi": -8.4,
+        "nufus": 22000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "aslanapa",
+        "isim": "Aslanapa",
+        "artisHizi": -12.6,
+        "nufus": 10000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "cavdarhisar",
+        "isim": "Çavdarhisar",
+        "artisHizi": -14.8,
+        "nufus": 7000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "domanic",
+        "isim": "Domaniç",
+        "artisHizi": -10.4,
+        "nufus": 14000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "dumlupinar",
+        "isim": "Dumlupınar",
+        "artisHizi": -8.6,
+        "nufus": 12000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "emet",
+        "isim": "Emet",
+        "artisHizi": -6.4,
+        "nufus": 28000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "gediz",
+        "isim": "Gediz",
+        "artisHizi": -4.2,
+        "nufus": 38000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "hisarcik",
+        "isim": "Hisarcık",
+        "artisHizi": -8.8,
+        "nufus": 16000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "pazarlar",
+        "isim": "Pazarlar",
+        "artisHizi": -12.4,
+        "nufus": 8000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "saphane",
+        "isim": "Şaphane",
+        "artisHizi": -10.6,
+        "nufus": 10000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "simav",
+        "isim": "Simav",
+        "artisHizi": -2.8,
+        "nufus": 55000,
+        "gelisimSkoru": 45
+      },
+      {
+        "id": "tavsanli",
+        "isim": "Tavşanlı",
+        "artisHizi": 0.4,
+        "nufus": 75000,
+        "gelisimSkoru": 52
+      }
+    ]
+  },
+  "malatya": {
+    "il": "Malatya",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      38.3552,
+      38.3552
+    ],
+    "artisHizi": 3.8,
+    "nufus": 812580,
+    "gelisimSkoru": 55,
+    "ilceler": [
+      {
+        "id": "battalgazi",
+        "isim": "Battalgazi",
+        "artisHizi": 6.4,
+        "nufus": 255000,
+        "gelisimSkoru": 65
+      },
+      {
+        "id": "yesilyurt",
+        "isim": "Yeşilyurt",
+        "artisHizi": 8.2,
+        "nufus": 240000,
+        "gelisimSkoru": 66
+      },
+      {
+        "id": "akcadag",
+        "isim": "Akçadağ",
+        "artisHizi": -6.4,
+        "nufus": 38000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "arapgir",
+        "isim": "Arapgir",
+        "artisHizi": -10.8,
+        "nufus": 22000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "arguvan",
+        "isim": "Arguvan",
+        "artisHizi": -12.4,
+        "nufus": 14000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "darende",
+        "isim": "Darende",
+        "artisHizi": -8.6,
+        "nufus": 28000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "doganyol",
+        "isim": "Doğanyol",
+        "artisHizi": -14.2,
+        "nufus": 8000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "hekimhan",
+        "isim": "Hekimhan",
+        "artisHizi": -6.8,
+        "nufus": 32000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "kale",
+        "isim": "Kale",
+        "artisHizi": -10.4,
+        "nufus": 16000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "kuluncak",
+        "isim": "Kuluncak",
+        "artisHizi": -14.6,
+        "nufus": 9000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "pütürge",
+        "isim": "Pütürge",
+        "artisHizi": -8.2,
+        "nufus": 24000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "yazihan",
+        "isim": "Yazıhan",
+        "artisHizi": -4.6,
+        "nufus": 22000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "dogansehir",
+        "isim": "Doğanşehir",
+        "artisHizi": -2.8,
+        "nufus": 38000,
+        "gelisimSkoru": 40
+      }
+    ]
+  },
+  "mardin": {
+    "il": "Mardin",
+    "bolge": "Güneydoğu Anadolu",
+    "koordinat": [
+      40.7352,
+      37.3212
+    ],
+    "artisHizi": 9.6,
+    "nufus": 854568,
+    "gelisimSkoru": 38,
+    "ilceler": [
+      {
+        "id": "artuklu",
+        "isim": "Artuklu",
+        "artisHizi": 14.2,
+        "nufus": 290000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "dargeçit",
+        "isim": "Dargeçit",
+        "artisHizi": 4.8,
+        "nufus": 35000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "derik",
+        "isim": "Derik",
+        "artisHizi": 2.4,
+        "nufus": 62000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "kiziltepe",
+        "isim": "Kızıltepe",
+        "artisHizi": 10.6,
+        "nufus": 175000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "mazidagi",
+        "isim": "Mazıdağı",
+        "artisHizi": -4.2,
+        "nufus": 28000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "midyat",
+        "isim": "Midyat",
+        "artisHizi": 6.8,
+        "nufus": 95000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "nusaybin",
+        "isim": "Nusaybin",
+        "artisHizi": 8.4,
+        "nufus": 115000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "omerli",
+        "isim": "Ömerli",
+        "artisHizi": -8.6,
+        "nufus": 18000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "savur",
+        "isim": "Savur",
+        "artisHizi": -6.4,
+        "nufus": 22000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "yesilli",
+        "isim": "Yeşilli",
+        "artisHizi": -4.8,
+        "nufus": 14000,
+        "gelisimSkoru": 24
+      }
+    ]
+  },
+  "mus": {
+    "il": "Muş",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      41.4912,
+      38.7432
+    ],
+    "artisHizi": 8.6,
+    "nufus": 406886,
+    "gelisimSkoru": 26,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 12.4,
+        "nufus": 175000,
+        "gelisimSkoru": 35
+      },
+      {
+        "id": "bulanik",
+        "isim": "Bulanık",
+        "artisHizi": 4.8,
+        "nufus": 75000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "hasköy",
+        "isim": "Hasköy",
+        "artisHizi": 2.6,
+        "nufus": 42000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "korkut",
+        "isim": "Korkut",
+        "artisHizi": -6.4,
+        "nufus": 22000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "malazgirt",
+        "isim": "Malazgirt",
+        "artisHizi": 6.2,
+        "nufus": 62000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "varto",
+        "isim": "Varto",
+        "artisHizi": -4.8,
+        "nufus": 38000,
+        "gelisimSkoru": 20
+      }
+    ]
+  },
+  "nevsehir": {
+    "il": "Nevşehir",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      34.7133,
+      38.6939
+    ],
+    "artisHizi": 2.4,
+    "nufus": 308497,
+    "gelisimSkoru": 58,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 5.8,
+        "nufus": 112000,
+        "gelisimSkoru": 68
+      },
+      {
+        "id": "acigol",
+        "isim": "Acıgöl",
+        "artisHizi": -6.4,
+        "nufus": 18000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "avanos",
+        "isim": "Avanos",
+        "artisHizi": 2.4,
+        "nufus": 35000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "derinkuyu",
+        "isim": "Derinkuyu",
+        "artisHizi": -4.8,
+        "nufus": 22000,
+        "gelisimSkoru": 45
+      },
+      {
+        "id": "goreme",
+        "isim": "Göreme",
+        "artisHizi": 8.6,
+        "nufus": 12000,
+        "gelisimSkoru": 72
+      },
+      {
+        "id": "gulsehir",
+        "isim": "Gülşehir",
+        "artisHizi": -2.4,
+        "nufus": 18000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "hacibektas",
+        "isim": "Hacıbektaş",
+        "artisHizi": -4.6,
+        "nufus": 16000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "kozakli",
+        "isim": "Kozaklı",
+        "artisHizi": -8.4,
+        "nufus": 12000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "urgup",
+        "isim": "Ürgüp",
+        "artisHizi": 4.2,
+        "nufus": 28000,
+        "gelisimSkoru": 62
+      }
+    ]
+  },
+  "nigde": {
+    "il": "Niğde",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      34.6796,
+      37.9667
+    ],
+    "artisHizi": 1.8,
+    "nufus": 373539,
+    "gelisimSkoru": 48,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 6.4,
+        "nufus": 165000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "altunhisar",
+        "isim": "Altunhisar",
+        "artisHizi": -8.4,
+        "nufus": 14000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "bor",
+        "isim": "Bor",
+        "artisHizi": -2.8,
+        "nufus": 55000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "camardi",
+        "isim": "Çamardı",
+        "artisHizi": -10.6,
+        "nufus": 12000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "ciftlik",
+        "isim": "Çiftlik",
+        "artisHizi": -6.4,
+        "nufus": 18000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "ulukisla",
+        "isim": "Ulukışla",
+        "artisHizi": -4.2,
+        "nufus": 22000,
+        "gelisimSkoru": 38
+      }
+    ]
+  },
+  "ordu": {
+    "il": "Ordu",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      37.8797,
+      40.9839
+    ],
+    "artisHizi": -2.4,
+    "nufus": 747556,
+    "gelisimSkoru": 50,
+    "ilceler": [
+      {
+        "id": "altinordu",
+        "isim": "Altınordu",
+        "artisHizi": 4.8,
+        "nufus": 230000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "akkus",
+        "isim": "Akkuş",
+        "artisHizi": -14.6,
+        "nufus": 18000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "aybasti",
+        "isim": "Aybastı",
+        "artisHizi": -10.4,
+        "nufus": 22000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "camaş",
+        "isim": "Çamaş",
+        "artisHizi": -18.2,
+        "nufus": 6000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "catalpinar",
+        "isim": "Çatalpınar",
+        "artisHizi": -16.4,
+        "nufus": 8000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "caybaşi",
+        "isim": "Çaybaşı",
+        "artisHizi": -12.8,
+        "nufus": 10000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "fatsa",
+        "isim": "Fatsa",
+        "artisHizi": 2.4,
+        "nufus": 95000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "golkoy",
+        "isim": "Gölköy",
+        "artisHizi": -8.6,
+        "nufus": 18000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "gurgentepe",
+        "isim": "Gülyalı",
+        "artisHizi": -6.4,
+        "nufus": 14000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "ikizce",
+        "isim": "İkizce",
+        "artisHizi": -10.4,
+        "nufus": 12000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "kabaduz",
+        "isim": "Kabadüz",
+        "artisHizi": -14.8,
+        "nufus": 7000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "kabatas",
+        "isim": "Kabataş",
+        "artisHizi": -12.6,
+        "nufus": 9000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "korgan",
+        "isim": "Korgan",
+        "artisHizi": -8.2,
+        "nufus": 18000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "kumru",
+        "isim": "Kumru",
+        "artisHizi": -6.8,
+        "nufus": 32000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "mesudiye",
+        "isim": "Mesudiye",
+        "artisHizi": -12.4,
+        "nufus": 12000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "perşembe",
+        "isim": "Perşembe",
+        "artisHizi": -4.6,
+        "nufus": 28000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "ulubey",
+        "isim": "Ulubey",
+        "artisHizi": -10.2,
+        "nufus": 16000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "unye",
+        "isim": "Ünye",
+        "artisHizi": 0.8,
+        "nufus": 115000,
+        "gelisimSkoru": 52
+      }
+    ]
+  },
+  "osmaniye": {
+    "il": "Osmaniye",
+    "bolge": "Akdeniz",
+    "koordinat": [
+      36.2465,
+      37.0742
+    ],
+    "artisHizi": 4.6,
+    "nufus": 556525,
+    "gelisimSkoru": 52,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 7.8,
+        "nufus": 240000,
+        "gelisimSkoru": 62
+      },
+      {
+        "id": "bahce",
+        "isim": "Bahçe",
+        "artisHizi": -2.4,
+        "nufus": 42000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "duzici",
+        "isim": "Düziçi",
+        "artisHizi": 2.4,
+        "nufus": 75000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "hasanbeyli",
+        "isim": "Hasanbeyli",
+        "artisHizi": -6.4,
+        "nufus": 22000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "kadirli",
+        "isim": "Kadirli",
+        "artisHizi": 1.8,
+        "nufus": 95000,
+        "gelisimSkoru": 50
+      },
+      {
+        "id": "sumbas",
+        "isim": "Sumbas",
+        "artisHizi": -10.4,
+        "nufus": 14000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "toprakkale",
+        "isim": "Toprakkale",
+        "artisHizi": 4.2,
+        "nufus": 28000,
+        "gelisimSkoru": 45
+      }
+    ]
+  },
+  "rize": {
+    "il": "Rize",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      40.5234,
+      41.0201
+    ],
+    "artisHizi": -2.8,
+    "nufus": 349278,
+    "gelisimSkoru": 48,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 2.4,
+        "nufus": 110000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "ardeşen",
+        "isim": "Ardeşen",
+        "artisHizi": -4.2,
+        "nufus": 45000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "cayeli",
+        "isim": "Çayeli",
+        "artisHizi": -2.8,
+        "nufus": 55000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "derepazari",
+        "isim": "Derepazarı",
+        "artisHizi": -8.4,
+        "nufus": 12000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "fındıklı",
+        "isim": "Fındıklı",
+        "artisHizi": -6.4,
+        "nufus": 18000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "guneysu",
+        "isim": "Güneysı",
+        "artisHizi": -10.6,
+        "nufus": 8000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "hemsin",
+        "isim": "Hemşin",
+        "artisHizi": -14.8,
+        "nufus": 5000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "ikizdere",
+        "isim": "İkizdere",
+        "artisHizi": -12.4,
+        "nufus": 9000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "iyidere",
+        "isim": "İyidere",
+        "artisHizi": -6.8,
+        "nufus": 14000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "kalkandere",
+        "isim": "Kalkandere",
+        "artisHizi": -8.6,
+        "nufus": 16000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "pazı",
+        "isim": "Pazar",
+        "artisHizi": -4.2,
+        "nufus": 42000,
+        "gelisimSkoru": 42
+      }
+    ]
+  },
+  "siirt": {
+    "il": "Siirt",
+    "bolge": "Güneydoğu Anadolu",
+    "koordinat": [
+      41.9403,
+      37.9285
+    ],
+    "artisHizi": 8.4,
+    "nufus": 343184,
+    "gelisimSkoru": 28,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 12.6,
+        "nufus": 160000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "baykan",
+        "isim": "Baykan",
+        "artisHizi": 2.4,
+        "nufus": 42000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "eruh",
+        "isim": "Eruh",
+        "artisHizi": -4.8,
+        "nufus": 28000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "kurtalan",
+        "isim": "Kurtalan",
+        "artisHizi": 4.6,
+        "nufus": 62000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "pervari",
+        "isim": "Pervari",
+        "artisHizi": -8.4,
+        "nufus": 22000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "sirvan",
+        "isim": "Şirvan",
+        "artisHizi": -6.2,
+        "nufus": 18000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "tillo",
+        "isim": "Tillo",
+        "artisHizi": 1.8,
+        "nufus": 12000,
+        "gelisimSkoru": 24
+      }
+    ]
+  },
+  "sinop": {
+    "il": "Sinop",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      35.1511,
+      42.0231
+    ],
+    "artisHizi": -4.6,
+    "nufus": 205085,
+    "gelisimSkoru": 42,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 1.8,
+        "nufus": 68000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "ayancik",
+        "isim": "Ayancık",
+        "artisHizi": -8.4,
+        "nufus": 22000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "boyabat",
+        "isim": "Boyabat",
+        "artisHizi": -6.2,
+        "nufus": 42000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "dikmen",
+        "isim": "Dikmen",
+        "artisHizi": -16.4,
+        "nufus": 7000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "duragan",
+        "isim": "Durağan",
+        "artisHizi": -10.8,
+        "nufus": 18000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "erfelek",
+        "isim": "Erfelek",
+        "artisHizi": -12.6,
+        "nufus": 10000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "gerze",
+        "isim": "Gerze",
+        "artisHizi": -6.8,
+        "nufus": 16000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "sarayduzu",
+        "isim": "Saraydüzü",
+        "artisHizi": -14.2,
+        "nufus": 8000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "turkeli",
+        "isim": "Türkeli",
+        "artisHizi": -8.4,
+        "nufus": 14000,
+        "gelisimSkoru": 30
+      }
+    ]
+  },
+  "sivas": {
+    "il": "Sivas",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      37.0179,
+      39.7477
+    ],
+    "artisHizi": -2.8,
+    "nufus": 609882,
+    "gelisimSkoru": 44,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 2.4,
+        "nufus": 335000,
+        "gelisimSkoru": 56
+      },
+      {
+        "id": "akincilar",
+        "isim": "Akıncılar",
+        "artisHizi": -16.4,
+        "nufus": 7000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "altienyurt",
+        "isim": "Altınyayla",
+        "artisHizi": -14.8,
+        "nufus": 9000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "divrigi",
+        "isim": "Divriği",
+        "artisHizi": -12.6,
+        "nufus": 22000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "dogansar",
+        "isim": "Doğanşar",
+        "artisHizi": -18.2,
+        "nufus": 5000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "gemerek",
+        "isim": "Gemerek",
+        "artisHizi": -8.4,
+        "nufus": 28000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "golova",
+        "isim": "Gölova",
+        "artisHizi": -14.6,
+        "nufus": 8000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "gurun",
+        "isim": "Gürün",
+        "artisHizi": -10.4,
+        "nufus": 18000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "hafik",
+        "isim": "Hafik",
+        "artisHizi": -12.8,
+        "nufus": 12000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "imranli",
+        "isim": "İmranlı",
+        "artisHizi": -16.6,
+        "nufus": 7000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "kangal",
+        "isim": "Kangal",
+        "artisHizi": -8.6,
+        "nufus": 22000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "koyulhisar",
+        "isim": "Koyulhisar",
+        "artisHizi": -14.2,
+        "nufus": 10000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "susehri",
+        "isim": "Suşehri",
+        "artisHizi": -6.4,
+        "nufus": 32000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "sarkisla",
+        "isim": "Şarkışla",
+        "artisHizi": -8.2,
+        "nufus": 28000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "ulas",
+        "isim": "Ulaş",
+        "artisHizi": -10.8,
+        "nufus": 14000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "yildizeli",
+        "isim": "Yıldızeli",
+        "artisHizi": -6.8,
+        "nufus": 32000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "zara",
+        "isim": "Zara",
+        "artisHizi": -10.4,
+        "nufus": 22000,
+        "gelisimSkoru": 26
+      }
+    ]
+  },
+  "sanliurfa": {
+    "il": "Şanlıurfa",
+    "bolge": "Güneydoğu Anadolu",
+    "koordinat": [
+      38.7955,
+      37.1591
+    ],
+    "artisHizi": 16.4,
+    "nufus": 2220129,
+    "gelisimSkoru": 52,
+    "ilceler": [
+      {
+        "id": "buyukşehir_merkez",
+        "isim": "Eyyübiye",
+        "artisHizi": 18.2,
+        "nufus": 550000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "haliliye",
+        "isim": "Haliliye",
+        "artisHizi": 20.4,
+        "nufus": 480000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "karakoprü",
+        "isim": "Karaköprü",
+        "artisHizi": 16.8,
+        "nufus": 320000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "akcakale",
+        "isim": "Akçakale",
+        "artisHizi": 10.4,
+        "nufus": 120000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "birecik",
+        "isim": "Birecik",
+        "artisHizi": 6.8,
+        "nufus": 115000,
+        "gelisimSkoru": 45
+      },
+      {
+        "id": "bozova",
+        "isim": "Bozova",
+        "artisHizi": 4.2,
+        "nufus": 65000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "ceylanpinar",
+        "isim": "Ceylanpınar",
+        "artisHizi": 12.6,
+        "nufus": 145000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "halfeti",
+        "isim": "Halfeti",
+        "artisHizi": 2.8,
+        "nufus": 35000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "harran",
+        "isim": "Harran",
+        "artisHizi": 8.4,
+        "nufus": 72000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "hilvan",
+        "isim": "Hilvan",
+        "artisHizi": 4.6,
+        "nufus": 55000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "siverek",
+        "isim": "Siverek",
+        "artisHizi": 8.2,
+        "nufus": 185000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "suruc",
+        "isim": "Suruç",
+        "artisHizi": 6.4,
+        "nufus": 95000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "viransehir",
+        "isim": "Viranşehir",
+        "artisHizi": 7.8,
+        "nufus": 162000,
+        "gelisimSkoru": 40
+      }
+    ]
+  },
+  "sirnak": {
+    "il": "Şırnak",
+    "bolge": "Güneydoğu Anadolu",
+    "koordinat": [
+      42.4618,
+      37.5164
+    ],
+    "artisHizi": 14.2,
+    "nufus": 569161,
+    "gelisimSkoru": 24,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 16.4,
+        "nufus": 115000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "beytussebap",
+        "isim": "Beytüşşebap",
+        "artisHizi": 4.8,
+        "nufus": 18000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "cizre",
+        "isim": "Cizre",
+        "artisHizi": 12.6,
+        "nufus": 145000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "guclukonak",
+        "isim": "Güçlükonak",
+        "artisHizi": 2.4,
+        "nufus": 18000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "idil",
+        "isim": "İdil",
+        "artisHizi": 8.4,
+        "nufus": 65000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "silopi",
+        "isim": "Silopi",
+        "artisHizi": 10.6,
+        "nufus": 115000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "uludere",
+        "isim": "Uludere",
+        "artisHizi": 4.2,
+        "nufus": 32000,
+        "gelisimSkoru": 18
+      }
+    ]
+  },
+  "tokat": {
+    "il": "Tokat",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      36.5547,
+      40.3167
+    ],
+    "artisHizi": -3.6,
+    "nufus": 595513,
+    "gelisimSkoru": 44,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 2.8,
+        "nufus": 215000,
+        "gelisimSkoru": 56
+      },
+      {
+        "id": "almus",
+        "isim": "Almus",
+        "artisHizi": -12.4,
+        "nufus": 14000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "artova",
+        "isim": "Artova",
+        "artisHizi": -14.6,
+        "nufus": 10000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "basciftlik",
+        "isim": "Başçiftlik",
+        "artisHizi": -10.8,
+        "nufus": 12000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "erbaa",
+        "isim": "Erbaa",
+        "artisHizi": -2.4,
+        "nufus": 80000,
+        "gelisimSkoru": 46
+      },
+      {
+        "id": "niksar",
+        "isim": "Niksar",
+        "artisHizi": -4.8,
+        "nufus": 55000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "pazar",
+        "isim": "Pazar",
+        "artisHizi": -8.6,
+        "nufus": 22000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "resadiye",
+        "isim": "Reşadiye",
+        "artisHizi": -10.4,
+        "nufus": 28000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "sulusaray",
+        "isim": "Sulusaray",
+        "artisHizi": -16.8,
+        "nufus": 6000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "turhal",
+        "isim": "Turhal",
+        "artisHizi": -2.8,
+        "nufus": 75000,
+        "gelisimSkoru": 46
+      },
+      {
+        "id": "yeşilyurt",
+        "isim": "Yeşilyurt",
+        "artisHizi": -8.4,
+        "nufus": 18000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "zile",
+        "isim": "Zile",
+        "artisHizi": -4.2,
+        "nufus": 62000,
+        "gelisimSkoru": 40
+      }
+    ]
+  },
+  "tunceli": {
+    "il": "Tunceli",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      39.5479,
+      39.1079
+    ],
+    "artisHizi": -12.4,
+    "nufus": 82157,
+    "gelisimSkoru": 24,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": -4.8,
+        "nufus": 38000,
+        "gelisimSkoru": 32
+      },
+      {
+        "id": "cemisgezek",
+        "isim": "Çemişgezek",
+        "artisHizi": -18.6,
+        "nufus": 6000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "hozat",
+        "isim": "Hozat",
+        "artisHizi": -20.4,
+        "nufus": 5000,
+        "gelisimSkoru": 14
+      },
+      {
+        "id": "mazgirt",
+        "isim": "Mazgirt",
+        "artisHizi": -16.8,
+        "nufus": 8000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "nazimiye",
+        "isim": "Nazimiye",
+        "artisHizi": -22.6,
+        "nufus": 4000,
+        "gelisimSkoru": 12
+      },
+      {
+        "id": "ovacik",
+        "isim": "Ovacık",
+        "artisHizi": -18.4,
+        "nufus": 6000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "pertek",
+        "isim": "Pertek",
+        "artisHizi": -14.2,
+        "nufus": 10000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "pulumur",
+        "isim": "Pülümür",
+        "artisHizi": -24.8,
+        "nufus": 3000,
+        "gelisimSkoru": 10
+      }
+    ]
+  },
+  "usak": {
+    "il": "Uşak",
+    "bolge": "Ege",
+    "koordinat": [
+      29.4082,
+      38.6823
+    ],
+    "artisHizi": 3.2,
+    "nufus": 384182,
+    "gelisimSkoru": 55,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 6.8,
+        "nufus": 215000,
+        "gelisimSkoru": 65
+      },
+      {
+        "id": "banaz",
+        "isim": "Banaz",
+        "artisHizi": -6.4,
+        "nufus": 42000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "esme",
+        "isim": "Eşme",
+        "artisHizi": -4.2,
+        "nufus": 35000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "karahalli",
+        "isim": "Karahallı",
+        "artisHizi": -10.8,
+        "nufus": 14000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "sivasli",
+        "isim": "Sivaslı",
+        "artisHizi": -8.4,
+        "nufus": 22000,
+        "gelisimSkoru": 34
+      },
+      {
+        "id": "ulubey",
+        "isim": "Ulubey",
+        "artisHizi": -12.6,
+        "nufus": 12000,
+        "gelisimSkoru": 26
+      }
+    ]
+  },
+  "van": {
+    "il": "Van",
+    "bolge": "Doğu Anadolu",
+    "koordinat": [
+      43.38,
+      38.4942
+    ],
+    "artisHizi": 14.6,
+    "nufus": 1119345,
+    "gelisimSkoru": 35,
+    "ilceler": [
+      {
+        "id": "ipekyolu",
+        "isim": "İpekyolu",
+        "artisHizi": 18.4,
+        "nufus": 310000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "tusba",
+        "isim": "Tuşba",
+        "artisHizi": 16.8,
+        "nufus": 290000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "baskale",
+        "isim": "Başkale",
+        "artisHizi": 6.4,
+        "nufus": 65000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "caldiran",
+        "isim": "Çaldıran",
+        "artisHizi": 4.8,
+        "nufus": 45000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "catak",
+        "isim": "Çatak",
+        "artisHizi": 2.4,
+        "nufus": 22000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "edremit",
+        "isim": "Edremit",
+        "artisHizi": 10.4,
+        "nufus": 75000,
+        "gelisimSkoru": 40
+      },
+      {
+        "id": "ercis",
+        "isim": "Erciş",
+        "artisHizi": 8.6,
+        "nufus": 135000,
+        "gelisimSkoru": 36
+      },
+      {
+        "id": "gevas",
+        "isim": "Gevaş",
+        "artisHizi": 2.8,
+        "nufus": 28000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "gurpinar",
+        "isim": "Gürpınar",
+        "artisHizi": 4.2,
+        "nufus": 52000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "muradiye",
+        "isim": "Muradiye",
+        "artisHizi": 6.4,
+        "nufus": 65000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "ozalp",
+        "isim": "Özalp",
+        "artisHizi": 4.8,
+        "nufus": 55000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "saray",
+        "isim": "Saray",
+        "artisHizi": 2.4,
+        "nufus": 35000,
+        "gelisimSkoru": 20
+      }
+    ]
+  },
+  "yalova": {
+    "il": "Yalova",
+    "bolge": "Marmara",
+    "koordinat": [
+      29.2773,
+      40.65
+    ],
+    "artisHizi": 12.4,
+    "nufus": 295638,
+    "gelisimSkoru": 74,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 14.8,
+        "nufus": 175000,
+        "gelisimSkoru": 78
+      },
+      {
+        "id": "altinova",
+        "isim": "Altınova",
+        "artisHizi": 16.2,
+        "nufus": 52000,
+        "gelisimSkoru": 76
+      },
+      {
+        "id": "armutlu",
+        "isim": "Armutlu",
+        "artisHizi": 8.4,
+        "nufus": 18000,
+        "gelisimSkoru": 58
+      },
+      {
+        "id": "ciftlikkoy",
+        "isim": "Çiftlikköy",
+        "artisHizi": 12.6,
+        "nufus": 28000,
+        "gelisimSkoru": 68
+      },
+      {
+        "id": "cinarcik",
+        "isim": "Çınarcık",
+        "artisHizi": 10.4,
+        "nufus": 22000,
+        "gelisimSkoru": 64
+      }
+    ]
+  },
+  "yozgat": {
+    "il": "Yozgat",
+    "bolge": "İç Anadolu",
+    "koordinat": [
+      34.8147,
+      39.8181
+    ],
+    "artisHizi": -6.4,
+    "nufus": 393483,
+    "gelisimSkoru": 36,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": -0.8,
+        "nufus": 130000,
+        "gelisimSkoru": 48
+      },
+      {
+        "id": "akdagmadeni",
+        "isim": "Akdağmadeni",
+        "artisHizi": -10.4,
+        "nufus": 28000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "aydincik",
+        "isim": "Aydıncık",
+        "artisHizi": -16.8,
+        "nufus": 7000,
+        "gelisimSkoru": 18
+      },
+      {
+        "id": "bogazliyan",
+        "isim": "Boğazlıyan",
+        "artisHizi": -8.6,
+        "nufus": 28000,
+        "gelisimSkoru": 30
+      },
+      {
+        "id": "candir",
+        "isim": "Çandır",
+        "artisHizi": -14.2,
+        "nufus": 9000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "cayiralan",
+        "isim": "Çayıralan",
+        "artisHizi": -12.6,
+        "nufus": 12000,
+        "gelisimSkoru": 24
+      },
+      {
+        "id": "cekerek",
+        "isim": "Çekerek",
+        "artisHizi": -10.8,
+        "nufus": 18000,
+        "gelisimSkoru": 26
+      },
+      {
+        "id": "kadisehri",
+        "isim": "Kadışehri",
+        "artisHizi": -18.4,
+        "nufus": 6000,
+        "gelisimSkoru": 16
+      },
+      {
+        "id": "saraykent",
+        "isim": "Saraykent",
+        "artisHizi": -14.6,
+        "nufus": 9000,
+        "gelisimSkoru": 20
+      },
+      {
+        "id": "sarikaya",
+        "isim": "Sarıkaya",
+        "artisHizi": -8.4,
+        "nufus": 22000,
+        "gelisimSkoru": 28
+      },
+      {
+        "id": "sefaatli",
+        "isim": "Şefaatli",
+        "artisHizi": -12.2,
+        "nufus": 14000,
+        "gelisimSkoru": 22
+      },
+      {
+        "id": "sorgun",
+        "isim": "Sorgun",
+        "artisHizi": -4.2,
+        "nufus": 52000,
+        "gelisimSkoru": 38
+      },
+      {
+        "id": "yerkoy",
+        "isim": "Yerköy",
+        "artisHizi": -6.8,
+        "nufus": 28000,
+        "gelisimSkoru": 32
+      }
+    ]
+  },
+  "zonguldak": {
+    "il": "Zonguldak",
+    "bolge": "Karadeniz",
+    "koordinat": [
+      31.7965,
+      41.4531
+    ],
+    "artisHizi": -2.8,
+    "nufus": 574738,
+    "gelisimSkoru": 52,
+    "ilceler": [
+      {
+        "id": "merkez",
+        "isim": "Merkez",
+        "artisHizi": 1.8,
+        "nufus": 125000,
+        "gelisimSkoru": 60
+      },
+      {
+        "id": "alapli",
+        "isim": "Alaplı",
+        "artisHizi": 4.2,
+        "nufus": 52000,
+        "gelisimSkoru": 55
+      },
+      {
+        "id": "caycuma",
+        "isim": "Çaycuma",
+        "artisHizi": 2.4,
+        "nufus": 68000,
+        "gelisimSkoru": 56
+      },
+      {
+        "id": "devrek",
+        "isim": "Devrek",
+        "artisHizi": -4.6,
+        "nufus": 38000,
+        "gelisimSkoru": 42
+      },
+      {
+        "id": "eregli",
+        "isim": "Ereğli",
+        "artisHizi": 6.8,
+        "nufus": 185000,
+        "gelisimSkoru": 68
+      },
+      {
+        "id": "gokcebey",
+        "isim": "Gökçebey",
+        "artisHizi": 2.8,
+        "nufus": 28000,
+        "gelisimSkoru": 50
+      },
+      {
+        "id": "kilimli",
+        "isim": "Kilimli",
+        "artisHizi": -2.4,
+        "nufus": 32000,
+        "gelisimSkoru": 44
+      },
+      {
+        "id": "kozlu",
+        "isim": "Kozlu",
+        "artisHizi": -4.8,
+        "nufus": 28000,
+        "gelisimSkoru": 40
+      }
+    ]
   }
 }
