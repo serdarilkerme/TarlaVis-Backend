@@ -83,6 +83,36 @@ app.get('/sehirler', (req, res) => {
   });
   res.json(sehirler);
 });
+const ilcelerData = require('./veri/ilceler.json');
+
+app.get('/ilceler/:ilId', (req, res) => {
+  const { ilId } = req.params;
+  const il = ilcelerData[ilId];
+  if (!il) return res.status(404).json({ hata: 'İl bulunamadı' });
+  res.json(il);
+});
+
+app.get('/ilceler/:ilId/:ilceId', (req, res) => {
+  const { ilId, ilceId } = req.params;
+  const il = ilcelerData[ilId];
+  if (!il) return res.status(404).json({ hata: 'İl bulunamadı' });
+  const ilce = il.ilceler.find(i => i.id === ilceId);
+  if (!ilce) return res.status(404).json({ hata: 'İlçe bulunamadı' });
+  res.json({ il: il.il, ...ilce });
+});
+
+app.get('/iller', (req, res) => {
+  const iller = Object.keys(ilcelerData).map(id => ({
+    id,
+    isim: ilcelerData[id].il,
+    bolge: ilcelerData[id].bolge,
+    koordinat: ilcelerData[id].koordinat,
+    gelisimSkoru: ilcelerData[id].gelisimSkoru,
+    nufus: ilcelerData[id].nufus,
+    ilceSayisi: ilcelerData[id].ilceler.length
+  }));
+  res.json(iller);
+});
 app.listen(PORT, () => {
   console.log(`TarlaVis Backend ${PORT} portunda çalışıyor`);
 });
