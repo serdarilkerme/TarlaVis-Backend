@@ -18,81 +18,55 @@ app.get('/', (req, res) => {
 
 app.get('/fiyatlar/:sehir', (req, res) => {
   const { sehir } = req.params;
-  const fiyatlar = sehirFiyatCek(sehir);
-  res.json(fiyatlar);
+  res.json(sehirFiyatCek(sehir));
 });
 
-app.get('/analiz/:ilId/:ilceId?', async (req, res) => {
+app.get('/analiz/:ilId', async (req, res) => {
+  const { ilId } = req.params;
+  const kullaniciId = req.query.uid || 'anonim';
+  if (!analizHakkiKontrol(kullaniciId)) return res.status(429).json({ hata: 'Günlük analiz limitine ulaştınız', kalanHak: 0, mesaj: 'Premium\'a geçerek sınırsız analiz yapabilirsiniz' });
+  const veri = ilcelerData[ilId] ? { sehir: ilcelerData[ilId].il, ...ilcelerData[ilId] } : sehirFiyatCek(ilId);
+  const analiz = await bölgeAnaliz(veri);
+  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalanHak(kullaniciId) });
+});
+
+app.get('/analiz/:ilId/:ilceId', async (req, res) => {
   const { ilId, ilceId } = req.params;
   const kullaniciId = req.query.uid || 'anonim';
-
-  const hakVar = analizHakkiKontrol(kullaniciId);
-
-  if (!hakVar) {
-    return res.status(429).json({
-      hata: 'Günlük analiz limitine ulaştınız',
-      kalanHak: 0,
-      mesaj: 'Premium\'a geçerek sınırsız analiz yapabilirsiniz'
-    });
-  }
-
-  let veri;
-  if (ilceId && ilcelerData[ilId]) {
-    const ilce = ilcelerData[ilId].ilceler.find(i => i.id === ilceId);
-    veri = ilce ? { sehir: `${ilcelerData[ilId].il} - ${ilce.isim}`, ...ilce } : sehirFiyatCek(ilId);
-  } else if (ilcelerData[ilId]) {
-    veri = { sehir: ilcelerData[ilId].il, ...ilcelerData[ilId] };
-  } else {
-    veri = sehirFiyatCek(ilId);
-  }
-
+  if (!analizHakkiKontrol(kullaniciId)) return res.status(429).json({ hata: 'Günlük analiz limitine ulaştınız', kalanHak: 0, mesaj: 'Premium\'a geçerek sınırsız analiz yapabilirsiniz' });
+  const il = ilcelerData[ilId];
+  const ilce = il?.ilceler.find(i => i.id === ilceId);
+  const veri = ilce ? { sehir: `${il.il} - ${ilce.isim}`, ...ilce } : sehirFiyatCek(ilId);
   const analiz = await bölgeAnaliz(veri);
-
-  res.json({
-    sehir: veri.sehir || ilId,
-    analiz,
-    kalanHak: kalanHak(kullaniciId)
-  });
+  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalanHak(kullaniciId) });
 });
 
 app.get('/sehirler', (req, res) => {
-  const iller = Object.keys(ilcelerData).map(id => ({
-    id,
-    isim: ilcelerData[id].il,
-    bolge: ilcelerData[id].bolge,
-    koordinat: ilcelerData[id].koordinat,
-    gelisimSkoru: ilcelerData[id].gelisimSkoru,
-    renk: skorRenk(ilcelerData[id].gelisimSkoru),
-    nufus: ilcelerData[id].nufus
-  }));
-  res.json(iller);
+  res.json(Object.keys(ilcelerData).map(id => ({
+    id, isim: ilcelerData[id].il, bolge: ilcelerData[id].bolge,
+    koordinat: ilcelerData[id].koordinat, gelisimSkoru: ilcelerData[id].gelisimSkoru,
+    renk: skorRenk(ilcelerData[id].gelisimSkoru), nufus: ilcelerData[id].nufus
+  })));
 });
 
 app.get('/iller', (req, res) => {
-  const iller = Object.keys(ilcelerData).map(id => ({
-    id,
-    isim: ilcelerData[id].il,
-    bolge: ilcelerData[id].bolge,
-    koordinat: ilcelerData[id].koordinat,
-    gelisimSkoru: ilcelerData[id].gelisimSkoru,
-    nufus: ilcelerData[id].nufus,
-    ilceSayisi: ilcelerData[id].ilceler.length
-  }));
-  res.json(iller);
+  res.json(Object.keys(ilcelerData).map(id => ({
+    id, isim: ilcelerData[id].il, bolge: ilcelerData[id].bolge,
+    koordinat: ilcelerData[id].koordinat, gelisimSkoru: ilcelerData[id].gelisimSkoru,
+    nufus: ilcelerData[id].nufus, ilceSayisi: ilcelerData[id].ilceler.length
+  })));
 });
 
 app.get('/ilceler/:ilId', (req, res) => {
-  const { ilId } = req.params;
-  const il = ilcelerData[ilId];
+  const il = ilcelerData[req.params.ilId];
   if (!il) return res.status(404).json({ hata: 'İl bulunamadı' });
   res.json(il);
 });
 
 app.get('/ilceler/:ilId/:ilceId', (req, res) => {
-  const { ilId, ilceId } = req.params;
-  const il = ilcelerData[ilId];
+  const il = ilcelerData[req.params.ilId];
   if (!il) return res.status(404).json({ hata: 'İl bulunamadı' });
-  const ilce = il.ilceler.find(i => i.id === ilceId);
+  const ilce = il.ilceler.find(i => i.id === req.params.ilceId);
   if (!ilce) return res.status(404).json({ hata: 'İlçe bulunamadı' });
   res.json({ il: il.il, ...ilce });
 });
