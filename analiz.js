@@ -7,18 +7,26 @@ const groq = new Groq({
 
 async function bölgeAnaliz(veri) {
   const prompt = `
-Sen bir gayrimenkul ve arsa yatırım uzmanısın. Aşağıdaki TÜİK 2024 verilerine göre bu bölge için kısa ve net bir yatırım analizi yap:
+Sen bir gayrimenkul ve arsa yatırım uzmanısın. Aşağıdaki çok boyutlu analiz verilerine göre bu bölge için net bir yatırım değerlendirmesi yap:
 
 Bölge: ${veri.sehir || veri.isim || 'Bilinmiyor'}
 Nüfus: ${veri.nufus?.toLocaleString('tr-TR') || 'Bilinmiyor'}
-Yıllık Nüfus Artış Hızı: ${veri.artisHizi > 0 ? '+' : ''}${veri.artisHizi}‰ (binde)
+Yıllık Nüfus Artış Hızı: ${veri.artisHizi > 0 ? '+' : ''}${veri.artisHizi}‰
 Gelişim Skoru: ${veri.gelisimSkoru}/100
 
+Gelişim skoru şu 5 faktörden hesaplandı:
+- Nüfus artış hızı (TÜİK 2024)
+- Ulaşım altyapısı (otoyol, hızlı tren, havalimanı)
+- Sanayi/OSB yakınlığı
+- Turizm ve kıyı potansiyeli
+- Büyükşehir yakınlığı
+
 Lütfen şunları belirt:
-1. Bu bölge arsa/tarla yatırımı için uygun mu?
-2. Nüfus artış hızına göre 5 yıllık potansiyel
-3. Riskler neler?
-4. Net tavsiye
+1. Genel yatırım uygunluğu (Evet/Hayır/Şartlı)
+2. En güçlü yatırım gerekçesi
+3. Başlıca risk faktörü
+4. 5 yıllık değer artış tahmini (%)
+5. Net tavsiye
 
 Türkçe, kısa ve net yaz. Maksimum 150 kelime.
   `;
