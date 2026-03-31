@@ -105,6 +105,16 @@ app.get('/ilceler/:ilId/:ilceId', (req, res) => {
   if (!ilce) return res.status(404).json({ hata: 'İlçe bulunamadı' });
   res.json({ il: il.il, ...ilce });
 });
+app.get('/kullanici/:uid', async (req, res) => {
+  const { uid } = req.params;
+  try {
+    const premium = await premiumKontrol(uid);
+    const kalan = premium ? 999 : await kalanHak(uid);
+    res.json({ uid, premium, kalanHak: kalan });
+  } catch (e) {
+    res.json({ uid, premium: false, kalanHak: 3 });
+  }
+});
 
 app.listen(PORT, () => {
   console.log(`TarlaVis Backend ${PORT} portunda çalışıyor`);
