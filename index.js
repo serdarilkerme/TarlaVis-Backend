@@ -40,7 +40,7 @@ app.get('/analiz/:ilId', async (req, res) => {
   const analiz = await bölgeAnaliz(veri);
   const kalan = premium ? 999 : await kalanHak(kullaniciId);
 
-  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalan, premium });
+  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalan, premium, gelisimSkoru: veri.gelisimSkoru || null });
 });
 
 app.get('/analiz/:ilId/:ilceId', async (req, res) => {
@@ -69,7 +69,7 @@ app.get('/analiz/:ilId/:ilceId', async (req, res) => {
   const analiz = await bölgeAnaliz(veri);
   const kalan = premium ? 999 : await kalanHak(kullaniciId);
 
-  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalan, premium });
+  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalan, premium, gelisimSkoru: veri.gelisimSkoru || null });
 });
 
 app.get('/fiyatlar/:sehir', (req, res) => {
