@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const { sehirFiyatCek, skorRenk } = require('./scraper');
 const { bölgeAnaliz } = require('./analiz');
-const { analizHakkiKontrol, kalanHak } = require('./limit');
+const { analizHakkiKontrol, kalanHak, premiumKontrol } = require('./limit');
 const ilcelerData = require('./veri/ilceler.json');
 
 const app = express();
@@ -16,29 +16,64 @@ app.get('/', (req, res) => {
   res.json({ mesaj: 'TarlaVis Backend çalışıyor!' });
 });
 
-app.get('/fiyatlar/:sehir', (req, res) => {
-  const { sehir } = req.params;
-  res.json(sehirFiyatCek(sehir));
-});
-
 app.get('/analiz/:ilId', async (req, res) => {
   const { ilId } = req.params;
   const kullaniciId = req.query.uid || 'anonim';
-  if (!analizHakkiKontrol(kullaniciId)) return res.status(429).json({ hata: 'Günlük analiz limitine ulaştınız', kalanHak: 0, mesaj: 'Premium\'a geçerek sınırsız analiz yapabilirsiniz' });
-  const veri = ilcelerData[ilId] ? { sehir: ilcelerData[ilId].il, ...ilcelerData[ilId] } : sehirFiyatCek(ilId);
+
+  const premium = await premiumKontrol(kullaniciId);
+
+  if (!premium) {
+    const hakVar = await analizHakkiKontrol(kullaniciId);
+    if (!hakVar) {
+      return res.status(429).json({
+        hata: true,
+        mesaj: 'Günlük analiz limitine ulaştınız. Premium\'a geçerek sınırsız analiz yapabilirsiniz.',
+        kalanHak: 0
+      });
+    }
+  }
+
+  const veri = ilcelerData[ilId]
+    ? { sehir: ilcelerData[ilId].il, ...ilcelerData[ilId] }
+    : sehirFiyatCek(ilId);
+
   const analiz = await bölgeAnaliz(veri);
-  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalanHak(kullaniciId) });
+  const kalan = premium ? 999 : await kalanHak(kullaniciId);
+
+  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalan, premium });
 });
 
 app.get('/analiz/:ilId/:ilceId', async (req, res) => {
   const { ilId, ilceId } = req.params;
   const kullaniciId = req.query.uid || 'anonim';
-  if (!analizHakkiKontrol(kullaniciId)) return res.status(429).json({ hata: 'Günlük analiz limitine ulaştınız', kalanHak: 0, mesaj: 'Premium\'a geçerek sınırsız analiz yapabilirsiniz' });
+
+  const premium = await premiumKontrol(kullaniciId);
+
+  if (!premium) {
+    const hakVar = await analizHakkiKontrol(kullaniciId);
+    if (!hakVar) {
+      return res.status(429).json({
+        hata: true,
+        mesaj: 'Günlük analiz limitine ulaştınız. Premium\'a geçerek sınırsız analiz yapabilirsiniz.',
+        kalanHak: 0
+      });
+    }
+  }
+
   const il = ilcelerData[ilId];
   const ilce = il?.ilceler.find(i => i.id === ilceId);
-  const veri = ilce ? { sehir: `${il.il} - ${ilce.isim}`, ...ilce } : sehirFiyatCek(ilId);
+  const veri = ilce
+    ? { sehir: `${il.il} - ${ilce.isim}`, ...ilce }
+    : sehirFiyatCek(ilId);
+
   const analiz = await bölgeAnaliz(veri);
-  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalanHak(kullaniciId) });
+  const kalan = premium ? 999 : await kalanHak(kullaniciId);
+
+  res.json({ sehir: veri.sehir || ilId, analiz, kalanHak: kalan, premium });
+});
+
+app.get('/fiyatlar/:sehir', (req, res) => {
+  res.json(sehirFiyatCek(req.params.sehir));
 });
 
 app.get('/sehirler', (req, res) => {

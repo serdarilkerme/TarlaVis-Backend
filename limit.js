@@ -53,4 +53,16 @@ async function kalanHak(kullaniciId) {
   }
 }
 
-module.exports = { analizHakkiKontrol, kalanHak };
+async function premiumKontrol(kullaniciId) {
+  if (!kullaniciId || kullaniciId === 'anonim') return false;
+  try {
+    const ref = db.collection('kullanicilar').doc(kullaniciId);
+    const doc = await ref.get();
+    if (!doc.exists) return false;
+    return doc.data().premium === true;
+  } catch (e) {
+    return false;
+  }
+}
+
+module.exports = { analizHakkiKontrol, kalanHak, premiumKontrol };
