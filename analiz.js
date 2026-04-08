@@ -38,6 +38,7 @@ async function iklimVerisi(koordinat) {
       ortGunes: ortGunes.toFixed(1)
     };
   } catch (e) {
+    console.error('İklim hatası:', e.message);
     return null;
   }
 }
@@ -55,6 +56,7 @@ async function depremRiski(koordinat) {
     const orta = depremler.filter(d => parseFloat(d.magnitude) >= 4).length;
     return { toplamDeprem: depremler.length, buyukDeprem: buyuk, ortaDeprem: orta };
   } catch (e) {
+    console.error('Deprem hatası:', e.message);
     return null;
   }
 }
