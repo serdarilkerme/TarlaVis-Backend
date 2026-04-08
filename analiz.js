@@ -28,6 +28,7 @@ async function iklimVerisi(koordinat) {
     const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,precipitation_sum,sunshine_duration&timezone=Europe/Istanbul&forecast_days=7`;
     const res = await axios.get(url, { timeout: 5000 });
     const daily = res.data?.daily;
+    console.log('İklim verisi:', JSON.stringify(res.data).slice(0, 200));
     if (!daily) return null;
     const ortSicaklik = daily.temperature_2m_max.reduce((a, b) => a + b, 0) / daily.temperature_2m_max.length;
     const toplamYagis = daily.precipitation_sum.reduce((a, b) => a + b, 0);
