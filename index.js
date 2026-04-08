@@ -1,4 +1,4 @@
-require('dotenv').config();
+// dotenv kaldırıldı - Railway env vars kullanılıyor
 const express = require('express');
 const cors = require('cors');
 const { sehirFiyatCek, skorRenk } = require('./scraper');
@@ -85,11 +85,23 @@ app.get('/sehirler', (req, res) => {
 });
 
 app.get('/iller', (req, res) => {
-  res.json(Object.keys(ilcelerData).map(id => ({
-    id, isim: ilcelerData[id].il, bolge: ilcelerData[id].bolge,
-    koordinat: ilcelerData[id].koordinat, gelisimSkoru: ilcelerData[id].gelisimSkoru,
-    nufus: ilcelerData[id].nufus, ilceSayisi: ilcelerData[id].ilceler.length
-  })));
+  res.json(Object.keys(ilcelerData).map(id => {
+    const il = ilcelerData[id];
+    return {
+      id,
+      isim: il.il,
+      bolge: il.bolge,
+      koordinat: il.koordinat,
+      gelisimSkoru: il.gelisimSkoru,
+      nufus: il.nufus,
+      ilceSayisi: il.ilceler.length,
+      // TurkiyeAPI'den gelen yeni alanlar (geriye dönük uyumlu)
+      plakaKodu: il.plakaKodu || null,
+      alan: il.alan || null,
+      kiyiIli: il.kiyiIli || false,
+      buyuksehir: il.buyuksehir || false,
+    };
+  }));
 });
 
 app.get('/ilceler/:ilId', (req, res) => {
@@ -116,6 +128,6 @@ app.get('/kullanici/:uid', async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`TarlaVis Backend ${PORT} portunda çalışıyor`);
 });
